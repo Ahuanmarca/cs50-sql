@@ -1,0 +1,15 @@
+SELECT
+  teams.name AS "team",
+  ROUND(AVG(salaries.salary), 2) AS "average salary"
+FROM
+  teams INNER JOIN salaries
+ON
+  teams.id = salaries.team_id
+WHERE
+  salaries.year = 2001
+GROUP BY
+  teams.name
+ORDER BY
+  "average salary" ASC
+LIMIT
+  5;

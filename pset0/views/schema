@@ -1,0 +1,13 @@
+CREATE TABLE
+  IF NOT EXISTS "views" (
+    "id" INTEGER,
+    "print_number" INTEGER,
+    "english_title" TEXT,
+    "japanese_title" TEXT,
+    "artist" TEXT,
+    "average_color" TEXT,
+    "brightness" NUMERIC,
+    "contrast" NUMERIC,
+    "entropy" NUMERIC,
+    PRIMARY KEY ("id")
+  );
