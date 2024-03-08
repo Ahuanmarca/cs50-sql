@@ -1,0 +1,12 @@
+                                         Table "public.episodes"
+      Column       |          Type          | Collation | Nullable |               Default                
+-------------------+------------------------+-----------+----------+--------------------------------------
+ id                | integer                |           | not null | nextval('episodes_id_seq'::regclass)
+ season            | integer                |           |          | 
+ episode_in_season | integer                |           |          | 
+ title             | character varying(500) |           |          | 
+ topic             | character varying(500) |           |          | 
+ air_date          | date                   |           |          | 
+ production_code   | text                   |           |          | 
+Indexes:
+    "episodes_pkey" PRIMARY KEY, btree (id)

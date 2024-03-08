@@ -1,0 +1,57 @@
+players=# \d import.master_players
+             Table "import.master_players"
+    Column     | Type | Collation | Nullable | Default 
+---------------+------+-----------+----------+---------
+ id            | text |           |          | 
+ first_name    | text |           |          | 
+ last_name     | text |           |          | 
+ bats          | text |           |          | 
+ throws        | text |           |          | 
+ weight        | text |           |          | 
+ height        | text |           |          | 
+ debut         | text |           |          | 
+ final_game    | text |           |          | 
+ birth_year    | text |           |          | 
+ birth_month   | text |           |          | 
+ birth_day     | text |           |          | 
+ birth_city    | text |           |          | 
+ birth_state   | text |           |          | 
+ birth_country | text |           |          | 
+
+
+ players=# \d players
+                                       Table "public.players"
+    Column     |          Type          | Collation | Nullable |               Default               
+---------------+------------------------+-----------+----------+-------------------------------------
+ id            | integer                |           | not null | nextval('players_id_seq'::regclass)
+ first_name    | character varying(255) |           |          | 
+ last_name     | character varying(255) |           |          | 
+ bats          | character(1)           |           |          | 
+ throws        | character(1)           |           |          | 
+ weight        | integer                |           |          | 
+ height        | integer                |           |          | 
+ debut         | date                   |           |          | 
+ final_game    | date                   |           |          | 
+ birth_year    | integer                |           |          | 
+ birth_month   | integer                |           |          | 
+ birth_day     | integer                |           |          | 
+ birth_city    | character varying(255) |           |          | 
+ birth_state   | character varying(255) |           |          | 
+ birth_country | character varying(255) |           |          | 
+Indexes:
+    "players_pkey" PRIMARY KEY, btree (id)
+
+players=# select * from players limit 10;
+ id | first_name | last_name | bats | throws | weight | height |   debut    | final_game | birth_year | birth_month | birth_day |  birth_city  | birth_state | birth_country 
+----+------------+-----------+------+--------+--------+--------+------------+------------+------------+-------------+-----------+--------------+-------------+---------------
+  1 | Al         | Pratt     |      | R      |    140 |     67 | 1871-05-04 | 1872-08-19 |       1847 |          11 |        19 | Pittsburgh   | PA          | USA
+  2 | Art        | Allison   |      |        |    150 |     68 | 1871-05-04 | 1876-10-05 |       1849 |           1 |        29 | Philadelphia | PA          | USA
+  3 | Bill       | Kelly     |      |        |    150 |     67 | 1871-05-04 | 1871-08-29 |            |             |           | New York     | NY          | USA
+  4 | Bill       | Lennon    |      |        |    145 |     67 | 1871-05-04 | 1873-07-11 |       1845 |           1 |         3 | Brooklyn     | NY          | USA
+  5 | Bobby      | Mathews   | R    | R      |    140 |     65 | 1871-05-04 | 1887-10-10 |       1851 |          11 |        21 | Baltimore    | MD          | USA
+  6 | Charlie    | Pabor     | L    | L      |    155 |     68 | 1871-05-04 | 1875-10-28 |       1846 |           9 |        24 | Brooklyn     | NY          | USA
+  7 | Deacon     | White     | L    | R      |    175 |     71 | 1871-05-04 | 1890-10-04 |       1847 |          12 |         2 | Caton        | NY          | USA
+  8 | Ed         | Mincher   |      |        |    155 |     67 | 1871-05-04 | 1872-06-26 |       1851 |           6 |        17 | Baltimore    | MD          | USA
+  9 | Elmer      | White     |      |        |        |        | 1871-05-04 | 1871-09-27 |       1849 |          12 |         7 | Caton        | NY          | USA
+ 10 | Ezra       | Sutton    | R    | R      |    153 |     68 | 1871-05-04 | 1888-06-20 |       1849 |           9 |        17 | Seneca Falls | NY          | USA
+(10 rows)

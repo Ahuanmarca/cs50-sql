@@ -1,0 +1,14 @@
+                                        Table "public.views"
+     Column     |          Type          | Collation | Nullable |              Default              
+----------------+------------------------+-----------+----------+-----------------------------------
+ id             | integer                |           | not null | nextval('views_id_seq'::regclass)
+ print_number   | integer                |           |          | 
+ english_title  | character varying(500) |           |          | 
+ japanese_title | character varying(500) |           |          | 
+ artist         | character varying(500) |           |          | 
+ average_color  | character varying(500) |           |          | 
+ brightness     | numeric(10,2)          |           |          | 
+ contrast       | numeric(10,2)          |           |          | 
+ entropy        | numeric(10,2)          |           |          | 
+Indexes:
+    "views_pkey" PRIMARY KEY, btree (id)
