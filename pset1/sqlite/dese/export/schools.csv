@@ -1,0 +1,1838 @@
+id,district_id,name,type,city,state,zip
+1,1,"Abby Kelley Foster Charter Public School","Charter School",Worcester,MA,01606
+2,2,"Abington Early Education Program","Public School",Abington,MA,02351
+3,2,"Abington High","Public School",Abington,MA,02351
+4,2,"Abington Middle School","Public School",Abington,MA,02351
+5,2,"Beaver Brook Elementary","Public School",Abington,MA,02351
+6,2,"Woodsdale Elementary School","Public School",Abington,MA,02351
+7,3,"Academy Of the Pacific Rim Charter Public School","Charter School","Hyde Park",MA,02136
+8,5,"Acton-Boxborough Regional High","Public School",Acton,MA,01720
+9,5,"Blanchard Memorial School","Public School",Boxborough,MA,01719
+10,5,"C.T. Douglas Elementary School","Public School",Acton,MA,01720
+11,5,"Carol Huebner Early Childhood Program","Public School",Acton,MA,01720
+12,5,"Luther Conant School","Public School",Acton,MA,01720
+13,5,"McCarthy-Towne School","Public School",Acton,MA,01720
+14,5,"Merriam School","Public School",Acton,MA,01720
+15,5,"Paul P Gates Elementary School","Public School",Acton,MA,01720
+16,5,"Raymond J Grey Junior High","Public School",Acton,MA,01720
+17,6,"Acushnet Elementary School","Public School",Acushnet,MA,02743
+18,6,"Albert F Ford Middle School","Public School",Acushnet,MA,02743
+19,8,"Advanced Math and Science Academy Charter School","Charter School",Marlborough,MA,01752
+20,9,"Agawam Early Childhood Center","Public School",Agawam,MA,01001
+21,9,"Agawam High","Public School",Agawam,MA,01001
+22,9,"Agawam Junior High","Public School","Feeding Hills",MA,01030
+23,9,"Benjamin J Phelps","Public School",Agawam,MA,01001
+24,9,"Clifford M Granger","Public School","Feeding Hills",MA,01030
+25,9,"James Clark School","Public School",Agawam,MA,01001
+26,9,"Roberta G. Doering School","Public School",Agawam,MA,01001
+27,9,"Robinson Park","Public School",Agawam,MA,01001
+28,11,"Alma del Mar Charter School","Charter School","New Bedford",MA,02746
+29,12,"Amesbury Elementary","Public School",Amesbury,MA,01913
+30,12,"Amesbury High","Public School",Amesbury,MA,01913
+31,12,"Amesbury Innovation High School","Public School",Amesbury,MA,01913
+32,12,"Amesbury Middle","Public School",Amesbury,MA,01913
+33,12,"Charles C Cashman Elementary","Public School",Amesbury,MA,01913
+34,13,"Crocker Farm Elementary","Public School",Amherst,MA,01002
+35,13,"Fort River Elementary","Public School",Amherst,MA,01002
+36,13,"Wildwood Elementary","Public School",Amherst,MA,01002
+37,14,"Amherst Regional High","Public School",Amherst,MA,01002
+38,14,"Amherst Regional Middle School","Public School",Amherst,MA,01002
+39,15,"Andover High","Public School",Andover,MA,01810
+40,15,"Andover West Middle","Public School",Andover,MA,01810
+41,15,"Bancroft Elementary","Public School",Andover,MA,01810
+42,15,"Doherty Middle","Public School",Andover,MA,01810
+43,15,"Henry C Sanborn Elementary","Public School",Andover,MA,01810
+44,15,"High Plain Elementary","Public School",Andover,MA,01810
+45,15,"Shawsheen School","Public School",Andover,MA,01810
+46,15,"South Elementary","Public School",Andover,MA,01810
+47,15,"West Elementary","Public School",Andover,MA,01810
+48,15,"Wood Hill Middle School","Public School",Andover,MA,01810
+49,17,"Argosy Collegiate Charter School","Charter School","Fall River",MA,02724
+50,18,"Arlington High","Public School",Arlington,MA,02476
+51,18,Brackett,"Public School",Arlington,MA,02476
+52,18,"Cyrus E Dallin","Public School",Arlington,MA,02476
+53,18,"Gibbs School","Public School",Arlington,MA,02474
+54,18,Hardy,"Public School",Arlington,MA,02474
+55,18,"John A Bishop","Public School",Arlington,MA,02474
+56,18,"M Norcross Stratton","Public School",Arlington,MA,02474
+57,18,"Menotomy Preschool","Public School",Arlington,MA,02476
+58,18,"Ottoson Middle","Public School",Arlington,MA,02476
+59,18,Peirce,"Public School",Arlington,MA,02474
+60,18,Thompson,"Public School",Arlington,MA,02474
+61,20,"Briggs Elementary","Public School",Ashburnham,MA,01430
+62,20,"Meetinghouse School","Public School",Westminster,MA,01473
+63,20,"Oakmont Regional High School","Public School",Ashburnham,MA,01430
+64,20,"Overlook Middle School","Public School",Ashburnham,MA,01430
+65,20,"Westminster Elementary","Public School",Westminster,MA,01473
+66,23,"Ashland High","Public School",Ashland,MA,01721
+67,23,"Ashland Middle","Public School",Ashland,MA,01721
+68,23,"David Mindess","Public School",Ashland,MA,01721
+69,23,"Henry E Warren Elementary","Public School",Ashland,MA,01721
+70,23,"William Pittaway Elementary","Public School",Ashland,MA,01721
+71,24,"Assabet Valley Vocational High School","Public School",Marlborough,MA,01752
+72,26,"Athol Community Elementary School","Public School",Athol,MA,01331
+73,26,"Athol High","Public School",Athol,MA,01331
+74,26,"Athol-Royalston Middle School","Public School",Athol,MA,01331
+75,26,"Royalston Community School","Public School",Royalston,MA,01368
+76,27,"Atlantis Charter School","Charter School","Fall River",MA,02721
+77,28,"A. Irvin Studley Elementary School","Public School",Attleboro,MA,02703
+78,28,"Attleboro Community Academy","Public School",Attleboro,MA,02703
+79,28,"Attleboro High","Public School",Attleboro,MA,02703
+80,28,"Attleboro Virtual Academy","Public School",Attleboro,MA,02703
+81,28,"Cyril K. Brennan Middle School","Public School",Attleboro,MA,02703
+82,28,"Early Learning Center","Public School",Attleboro,MA,02703
+83,28,"Hill-Roberts Elementary School","Public School",Attleboro,MA,02703
+84,28,"Hyman Fine Elementary School","Public School",Attleboro,MA,02703
+85,28,"Peter Thacher Elementary School","Public School",Attleboro,MA,02703
+86,28,"Robert J. Coelho Middle School","Public School",Attleboro,MA,02703
+87,28,"Thomas Willett Elementary School","Public School",Attleboro,MA,02703
+88,28,"Wamsutta Middle School","Public School",Attleboro,MA,02703
+89,29,"Auburn Middle","Public School",Auburn,MA,01501
+90,29,"Auburn Senior High","Public School",Auburn,MA,01501
+91,29,"Bryn Mawr","Public School",Auburn,MA,01501
+92,29,"Pakachoag School","Public School",Auburn,MA,01501
+93,29,"Swanson Road Intermediate School","Public School",Auburn,MA,01501
+94,30,"Avon Middle High School","Public School",Avon,MA,02322
+95,30,"Ralph D Butler","Public School",Avon,MA,02322
+96,32,"Ayer Shirley Regional High School","Public School",Ayer,MA,01432
+97,32,"Ayer Shirley Regional Middle School","Public School",Shirley,MA,01464
+98,32,"Lura A. White Elementary School","Public School",Shirley,MA,01464
+99,32,"Page Hilltop Elementary School","Public School",Ayer,MA,01432
+100,33,"Barnstable Community Innovation School","Public School",Hyannis,MA,02601
+101,33,"Barnstable High","Public School",Hyannis,MA,02601
+102,33,"Barnstable Intermediate School","Public School",Hyannis,MA,02601
+103,33,"Barnstable United Elementary School","Public School","Marston Mills",MA,02648
+104,33,"Centerville Elementary","Public School",Centerville,MA,02632
+105,33,"Enoch Cobb Early Learning Center","Public School",Hyannis,MA,02601
+106,33,"Hyannis West Elementary","Public School",Hyannis,MA,02601
+107,33,"West Barnstable Elementary","Public School","West Barnstable",MA,02668
+108,33,"West Villages Elementary School","Public School","Marstons Mills",MA,02648
+109,35,"Baystate Academy Charter Public School","Charter School",Springfield,MA,01104
+110,37,"Bedford High","Public School",Bedford,MA,01730
+111,37,"John Glenn Middle","Public School",Bedford,MA,01730
+112,37,"Lt Eleazer Davis","Public School",Bedford,MA,01730
+113,37,"Lt Job Lane School","Public School",Bedford,MA,01730
+114,38,"Belchertown High","Public School",Belchertown,MA,01007
+115,38,"Chestnut Hill Community School","Public School",Belchertown,MA,01007
+116,38,"Cold Spring","Public School",Belchertown,MA,01007
+117,38,"Jabish Middle School","Public School",Belchertown,MA,01007
+118,38,"Swift River Elementary","Public School",Belchertown,MA,01007
+119,39,"Bellingham Early Childhood Center","Public School",Bellingham,MA,02019
+120,39,"Bellingham High School","Public School",Bellingham,MA,02019
+121,39,"Bellingham Memorial School","Public School",Bellingham,MA,02019
+122,39,"Joseph F DiPietro Elementary School","Public School",Bellingham,MA,02019
+123,39,"Keough Memorial Academy","Public School",Bellingham,MA,02019
+124,39,"Stall Brook","Public School",Bellingham,MA,02019
+125,40,"Belmont High","Public School",Belmont,MA,02478
+126,40,"Daniel Butler","Public School",Belmont,MA,02478
+127,40,"Mary Lee Burbank","Public School",Belmont,MA,02478
+128,40,"Roger E Wellington","Public School",Belmont,MA,02478
+129,40,"Winn Brook","Public School",Belmont,MA,02478
+130,40,"Winthrop L Chenery Middle","Public School",Belmont,MA,02478
+131,41,"Benjamin Banneker Charter Public School","Charter School",Cambridge,MA,02140
+132,42,"Benjamin Franklin Classical Charter Public School","Charter School",Franklin,MA,02038
+133,43,"Berkley Community School","Public School",Berkley,MA,02779
+134,43,"Berkley Middle School","Public School",Berkley,MA,02779
+135,44,"Berkshire Arts and Technology Charter Public School","Charter School",Adams,MA,01220
+136,45,"Monument Mt Regional High","Public School","Great Barrington",MA,01230
+137,45,"Muddy Brook Regional Elementary School","Public School","Great Barrington",MA,01230
+138,45,"W.E.B. Du Bois Regional Middle School","Public School","Great Barrington",MA,01230
+139,47,"Berlin Memorial School","Public School",Berlin,MA,01503
+140,47,"Boylston Elementary School","Public School",Boylston,MA,01505
+141,47,"Tahanto Regional High","Public School",Boylston,MA,01505
+142,49,"Ayers/Ryal Side School","Public School",Beverly,MA,01915
+143,49,"Beverly High","Public School",Beverly,MA,01915
+144,49,"Beverly Middle School","Public School",Beverly,MA,01915
+145,49,"Centerville Elementary","Public School",Beverly,MA,01915
+146,49,"Cove Elementary","Public School",Beverly,MA,01915
+147,49,"Hannah Elementary","Public School",Beverly,MA,01915
+148,49,"McKeown School","Public School",Beverly,MA,01915
+149,49,"North Beverly Elementary","Public School",Beverly,MA,01915
+150,50,"Billerica Memorial High School","Public School",Billerica,MA,01821
+151,50,"Frederick J Dutile","Public School","North Billerica",MA,01862
+152,50,"Hajjar Elementary","Public School",Billerica,MA,01862
+153,50,"John F Kennedy","Public School",Billerica,MA,01821
+154,50,"Locke Middle","Public School",Billerica,MA,01821
+155,50,"Marshall Middle School","Public School",Billerica,MA,01821
+156,50,Parker,"Public School",Billerica,MA,01821
+157,50,"Thomas Ditson","Public School",Billerica,MA,01821
+158,52,"Blackstone Valley","Public School",Upton,MA,01568
+159,53,"A F Maloney","Public School",Blackstone,MA,01504
+160,53,"Blackstone Millville RHS","Public School",Blackstone,MA,01504
+161,53,"Frederick W. Hartnett Middle School","Public School",Blackstone,MA,01504
+162,53,"John F Kennedy Elementary","Public School",Blackstone,MA,01504
+163,53,"Millville Elementary","Public School",Millville,MA,01529
+164,55,"Blue Hills Regional Vocational Technical","Public School",Canton,MA,02021
+165,57,"Adams Elementary School","Public School","East Boston",MA,02128
+166,57,"Alighieri Dante Montessori School","Public School","East Boston",MA,02128
+167,57,"Another Course To College","Public School","Hyde Park",MA,02136
+168,57,"Baldwin Early Learning Pilot Academy","Public School",Brighton,MA,02135
+169,57,"Bates Elementary School","Public School",Roslindale,MA,02131
+170,57,"Beethoven Elementary School","Public School","West Roxbury",MA,02132
+171,57,"Blackstone Elementary School","Public School",Boston,MA,02118
+172,57,"Boston Adult Tech Academy","Public School","Back Bay",MA,02116
+173,57,"Boston Arts Academy","Public School",Boston,MA,02215
+174,57,"Boston Collaborative High School","Public School","South Boston",MA,02127
+175,57,"Boston Community Leadership Academy","Public School","Hyde Park",MA,02136
+176,57,"Boston International High School & Newcomers Academy","Public School",Dorchester,MA,02124
+177,57,"Boston Latin Academy","Public School",Dorchester,MA,02121
+178,57,"Boston Latin School","Public School",Boston,MA,02115
+179,57,"Boston Teachers Union K-8 Pilot","Public School","Jamaica Plain",MA,02130
+180,57,"Bradley Elementary School","Public School","East Boston",MA,02128
+181,57,"Brighton High School","Public School",Brighton,MA,02135
+182,57,"Burke High School","Public School",Dorchester,MA,02121
+183,57,"Carter School","Public School",Dorchester,MA,02121
+184,57,"Channing Elementary School","Public School","Hyde Park",MA,02136
+185,57,"Charlestown High School","Public School",Charlestown,MA,02129
+186,57,"Chittick Elementary School","Public School",Mattapan,MA,02126
+187,57,"Clap Elementary School","Public School",Dorchester,MA,02125
+188,57,"Community Academy","Public School","Jamaica Plain",MA,02130
+189,57,"Community Academy of Science and Health","Public School",Dorchester,MA,02122
+190,57,"Condon K-8 School","Public School","South Boston",MA,02127
+191,57,"Conley Elementary School","Public School",Roslindale,MA,02131
+192,57,"Curley K-8 School","Public School","Jamaica Plain",MA,02130
+193,57,"Dearborn 6-12 STEM Academy","Public School",Roxbury,MA,02119
+194,57,"Dever Elementary School","Public School",Dorchester,MA,02125
+195,57,"East Boston Early Education Center","Public School","East Boston",MA,02128
+196,57,"East Boston High School","Public School","East Boston",MA,02128
+197,57,"Edison K-8 School","Public School",Brighton,MA,02135
+198,57,"Eliot K-8 Innovation School","Public School",Boston,MA,02113
+199,57,"Ellis Elementary School","Public School",Roxbury,MA,02119
+200,57,"Ellison-Parks Early Education School","Public School",Mattapan,MA,02126
+201,57,"English High School","Public School","Jamaica Plain",MA,02130
+202,57,"Everett Elementary School","Public School",Dorchester,MA,02125
+203,57,"Excel High School","Public School","South Boston",MA,02127
+204,57,"Fenway High School","Public School",Roxbury,MA,02120
+205,57,"Frederick Pilot Middle School","Public School",Dorchester,MA,02121
+206,57,"Gardner Pilot Academy","Public School",Allston,MA,02134
+207,57,"Greater Egleston High School","Public School",Roxbury,MA,02119
+208,57,"Greenwood Sarah K-8 School","Public School",Dorchester,MA,02121
+209,57,"Grew Elementary School","Public School","Hyde Park",MA,02136
+210,57,"Guild Elementary School","Public School","East Boston",MA,02128
+211,57,"Hale Elementary School","Public School",Roxbury,MA,02119
+212,57,"Haley Pilot School","Public School",Roslindale,MA,02131
+213,57,"Harvard-Kent Elementary School","Public School",Charlestown,MA,02129
+214,57,"Haynes Early Education Center","Public School",Roxbury,MA,02119
+215,57,"Henderson K-12 Inclusion School Lower","Public School",Dorchester,MA,02122
+216,57,"Henderson K-12 Inclusion School Upper","Public School",Dorchester,MA,02124
+217,57,"Hennigan K-8 School","Public School","Jamaica Plain",MA,02130
+218,57,"Hernandez K-8 School","Public School",Roxbury,MA,02119
+219,57,"Higginson Inclusion K0-2 School","Public School",Roxbury,MA,02119
+220,57,"Higginson-Lewis K-8 School","Public School",Roxbury,MA,02119
+221,57,"Holmes Elementary School","Public School",Dorchester,MA,02124
+222,57,"Horace Mann School for the Deaf Hard of Hearing","Public School",Allston,MA,02134
+223,57,"Hurley K-8 School","Public School",Boston,MA,02118
+224,57,"Kennedy John F Elementary School","Public School","Jamaica Plain",MA,02130
+225,57,"Kennedy Patrick J Elementary School","Public School","East Boston",MA,02128
+226,57,"Kenny Elementary School","Public School",Dorchester,MA,02122
+227,57,"Kilmer K-8 School","Public School","West Roxbury",MA,02132
+228,57,"King Elementary School","Public School",Dorchester,MA,02121
+229,57,"Lee Academy","Public School",Dorchester,MA,02124
+230,57,"Lee K-8 School","Public School",Dorchester,MA,02124
+231,57,"Lyndon K-8 School","Public School","West Roxbury",MA,02132
+232,57,"Lyon High School","Public School",Brighton,MA,02135
+233,57,"Lyon K-8 School","Public School",Brighton,MA,02135
+234,57,"Madison Park Technical Vocational High School","Public School",Roxbury,MA,02120
+235,57,"Manning Elementary School","Public School","Jamaica Plain",MA,02130
+236,57,"Margarita Muniz Academy","Public School",Boston,MA,02130
+237,57,"Mario Umana Academy","Public School","East Boston",MA,02128
+238,57,"Mason Elementary School","Public School",Roxbury,MA,02119
+239,57,"Mather Elementary School","Public School",Dorchester,MA,02122
+240,57,"Mattahunt Elementary School","Public School",Mattapan,MA,02126
+241,57,"McKay K-8 School","Public School","East Boston",MA,02128
+242,57,"McKinley Schools","Public School",Boston,MA,02116
+243,57,"Mendell Elementary School","Public School",Roxbury,MA,02119
+244,57,"Mildred Avenue K-8 School","Public School",Mattapan,MA,02126
+245,57,"Mozart Elementary School","Public School",Roslindale,MA,02131
+246,57,"Murphy K-8 School","Public School",Dorchester,MA,02122
+247,57,"New Mission High School","Public School","Hyde Park",MA,02136
+248,57,"O'Bryant School of Math & Science","Public School",Roxbury,MA,02120
+249,57,"O'Donnell Elementary School","Public School","East Boston",MA,02128
+250,57,"Ohrenberger School","Public School","West Roxbury",MA,02132
+251,57,"Orchard Gardens K-8 School","Public School",Roxbury,MA,02119
+252,57,"Otis Elementary School","Public School","East Boston",MA,02128
+253,57,"Perkins Elementary School","Public School","South Boston",MA,02127
+254,57,"Perry Elementary School","Public School","South Boston",MA,02127
+255,57,"Philbrick Elementary School","Public School",Roslindale,MA,02131
+256,57,"Quincy Elementary School","Public School",Boston,MA,02111
+257,57,"Quincy Upper School","Public School",Boston,MA,02116
+258,57,"Roosevelt K-8 School","Public School","Hyde Park",MA,02136
+259,57,"Russell Elementary School","Public School",Dorchester,MA,02125
+260,57,"Shaw Elementary School","Public School",Dorchester,MA,02124
+261,57,"Snowden International High School","Public School",Boston,MA,02116
+262,57,"Sumner Elementary School","Public School",Roslindale,MA,02131
+263,57,"Taylor Elementary School","Public School",Mattapan,MA,02126
+264,57,"TechBoston Academy","Public School",Dorchester,MA,02124
+265,57,"Tobin K-8 School","Public School",Roxbury,MA,02120
+266,57,"Trotter Elementary School","Public School",Dorchester,MA,02121
+267,57,"Tynan Elementary School","Public School","South Boston",MA,02127
+268,57,"UP Academy Holland","Public School",Dorchester,MA,02121
+269,57,"Warren-Prescott K-8 School","Public School",Charlestown,MA,02129
+270,57,"West Zone Early Learning Center","Public School","Jamaica Plain",MA,02130
+271,57,"Winship Elementary School","Public School",Brighton,MA,02135
+272,57,"Winthrop Elementary School","Public School",Dorchester,MA,02125
+273,57,"Young Achievers K-8 School","Public School",Mattapan,MA,02126
+274,58,"Boston Collegiate Charter School","Charter School",Dorchester,MA,02125
+275,59,"Boston Day and Evening Academy Charter School","Charter School",Roxbury,MA,02119
+276,60,"Boston Green Academy Horace Mann Charter School","Charter School",Brighton,MA,02135
+277,61,"Boston Preparatory Charter Public School","Charter School","Hyde Park",MA,02136
+278,62,"Boston Renaissance Charter Public School","Charter School","Hyde Park",MA,02136
+279,63,"Bourne High School","Public School",Bourne,MA,02532
+280,63,"Bourne Intermediate School","Public School",Bourne,MA,02532
+281,63,"Bourne Middle School","Public School",Bourne,MA,02532
+282,63,"Bournedale Elementary School","Public School",Bournedale,MA,02532
+283,65,"Harry Lee Cole","Public School",Boxford,MA,01921
+284,65,"Spofford Pond","Public School",Boxford,MA,01921
+285,67,"Archie T Morrison","Public School",Braintree,MA,02184
+286,67,"Braintree High","Public School",Braintree,MA,02184
+287,67,"Donald Ross","Public School",Braintree,MA,02184
+288,67,"East Middle School","Public School",Braintree,MA,02184
+289,67,Highlands,"Public School",Braintree,MA,02184
+290,67,Hollis,"Public School",Braintree,MA,02184
+291,67,Liberty,"Public School",Braintree,MA,02184
+292,67,"Mary E Flaherty School","Public School",Braintree,MA,02184
+293,67,"Monatiquot Kindergarten Center","Public School",Braintree,MA,02184
+294,67,"South Middle School","Public School",Braintree,MA,02184
+295,68,"Eddy Elementary","Public School",Brewster,MA,02631
+296,68,"Stony Brook Elementary","Public School",Brewster,MA,02631
+297,69,"Bridge Boston Charter School","Charter School",Roxbury,MA,02119
+298,71,"Bridgewater Middle School","Public School",Bridgewater,MA,02324
+299,71,"Bridgewater-Raynham Regional","Public School",Bridgewater,MA,02324
+300,71,"Laliberte Elementary School","Public School",Raynham,MA,02767
+301,71,"Merrill Elementary School","Public School",Raynham,MA,02767
+302,71,"Mitchell Elementary School","Public School",Bridgewater,MA,02324
+303,71,"Raynham Middle School","Public School",Raynham,MA,02767
+304,71,"Therapeutic Day School","Public School",Bridgewater,MA,02324
+305,71,"Williams Intermediate School","Public School",Bridgewater,MA,02324
+306,72,"Brimfield Elementary","Public School",Brimfield,MA,01010
+307,73,"Bristol County Agricultural High","Public School",Dighton,MA,02715
+308,74,"Bristol-Plymouth Vocational Technical","Public School",Taunton,MA,02780
+309,75,"Ashfield Middle School","Public School",Brockton,MA,02302
+310,75,"Barrett Russell Early Childhood Center","Public School",Brockton,MA,02301
+311,75,"Brockton Champion High School","Public School",Brockton,MA,02301
+312,75,"Brockton High","Public School",Brockton,MA,02301
+313,75,"Brockton Virtual Learning Academy","Public School",Brockton,MA,02301
+314,75,Brookfield,"Public School",Brockton,MA,02302
+315,75,Downey,"Public School",Brockton,MA,02302
+316,75,"Dr W Arnone Community School","Public School",Brockton,MA,02301
+317,75,"East Middle School","Public School",Brockton,MA,02302
+318,75,"Edgar B Davis","Public School",Brockton,MA,02302
+319,75,"Edison Academy","Public School",Brockton,MA,02301
+320,75,"Gilmore Elementary School","Public School",Brockton,MA,02302
+321,75,Hancock,"Public School",Brockton,MA,02301
+322,75,"Huntington Therapeutic Day School","Public School",Brockton,MA,02301
+323,75,"John F Kennedy","Public School",Brockton,MA,02301
+324,75,"Louis F Angelo Elementary","Public School",Brockton,MA,02301
+325,75,"Manthala George Jr. School","Public School",Brockton,MA,02301
+326,75,"Mary E. Baker School","Public School",Brockton,MA,02302
+327,75,"North Middle School","Public School",Brockton,MA,02301
+328,75,"Oscar F Raymond","Public School",Brockton,MA,02301
+329,75,"PROMISE College and Career Academy","Public School",Brockton,MA,02302
+330,75,"Plouffe Middle School","Public School",Brockton,MA,02302
+331,75,"South Middle School","Public School",Brockton,MA,02301
+332,75,"West Middle School","Public School",Brockton,MA,02301
+333,76,"Brooke Charter School","Charter School",Roslindale,MA,02131
+334,77,"Brookfield Elementary","Public School",Brookfield,MA,01506
+335,78,"Brookline Early Education Program at Beacon","Public School",Brookline,MA,02445
+336,78,"Brookline Early Education Program at Clark Road","Public School",Brookline,MA,02445
+337,78,"Brookline Early Education Program at Putterham","Public School","Chestnut Hill",MA,02467
+338,78,"Brookline High","Public School",Brookline,MA,02445
+339,78,"Edith C Baker","Public School","Chestnut Hill",MA,02467
+340,78,"Florida Ruffin Ridley School","Public School",Brookline,MA,02446
+341,78,Heath,"Public School","Chestnut Hill",MA,02467
+342,78,"John D Runkle","Public School",Brookline,MA,02445
+343,78,Lawrence,"Public School",Brookline,MA,02446
+344,78,"Michael Driscoll","Public School",Brookline,MA,02446
+345,78,Pierce,"Public School",Brookline,MA,02446
+346,78,"The Lynch Center","Public School",Brookline,MA,02445
+347,78,"William H Lincoln","Public School",Brookline,MA,02445
+348,80,"Burlington High","Public School",Burlington,MA,01803
+349,80,"Fox Hill","Public School",Burlington,MA,01803
+350,80,"Francis Wyman Elementary","Public School",Burlington,MA,01803
+351,80,"Marshall Simonds Middle","Public School",Burlington,MA,01803
+352,80,Memorial,"Public School",Burlington,MA,01803
+353,80,"Pine Glen Elementary","Public School",Burlington,MA,01803
+354,81,"Amigos School","Public School",Cambridge,MA,02139
+355,81,"Cambridge Rindge and Latin","Public School",Cambridge,MA,02138
+356,81,"Cambridge Street Upper School","Public School",Cambridge,MA,02141
+357,81,Cambridgeport,"Public School",Cambridge,MA,02139
+358,81,"Fletcher/Maynard Academy","Public School",Cambridge,MA,02139
+359,81,"Graham and Parks","Public School",Cambridge,MA,02138
+360,81,Haggerty,"Public School",Cambridge,MA,02138
+361,81,"John M Tobin","Public School",Cambridge,MA,02139
+362,81,Kennedy-Longfellow,"Public School",Cambridge,MA,02141
+363,81,"King Open","Public School",Cambridge,MA,02139
+364,81,"Maria L. Baldwin","Public School",Cambridge,MA,02138
+365,81,"Martin Luther King Jr.","Public School",Cambridge,MA,02139
+366,81,Morse,"Public School",Cambridge,MA,02139
+367,81,Peabody,"Public School",Cambridge,MA,02140
+368,81,"Putnam Avenue Upper School","Public School",Cambridge,MA,02139
+369,81,"Rindge Avenue Upper School","Public School",Cambridge,MA,02140
+370,81,"Vassal Lane Upper School","Public School",Cambridge,MA,02141
+371,82,"Canton High","Public School",Canton,MA,02021
+372,82,"Dean S Luce","Public School",Canton,MA,02021
+373,82,"John F Kennedy","Public School",Canton,MA,02021
+374,82,"Lt Peter M Hansen","Public School",Canton,MA,02021
+375,82,"Rodman Early Childhood Center","Public School",Canton,MA,02021
+376,82,"Wm H Galvin Middle","Public School",Canton,MA,02021
+377,83,"Cape Cod Lighthouse Charter School","Charter School","East Harwich",MA,02645
+378,84,"Cape Cod Region Vocational Technical","Public School",Harwich,MA,02645
+379,85,"Carlisle School","Public School",Carlisle,MA,01741
+380,86,"Carver Elementary School","Public School",Carver,MA,02330
+381,86,"Carver Middle/High School","Public School",Carver,MA,02330
+382,87,"Becket Washington School","Public School",Becket,MA,01223
+383,87,Craneville,"Public School",Dalton,MA,01226
+384,87,Kittredge,"Public School",Hinsdale,MA,01235
+385,87,"Nessacus Regional Middle School","Public School",Dalton,MA,01226
+386,87,"Wahconah Regional High","Public School",Dalton,MA,01226
+387,91,"Byam School","Public School",Chelmsford,MA,01824
+388,91,"Center Elementary School","Public School",Chelmsford,MA,01824
+389,91,"Charles D Harrington","Public School","North Chelmsford",MA,01863
+390,91,"Chelmsford High","Public School","North Chelmsford",MA,01863
+391,91,"Col Moses Parker School","Public School",Chelmsford,MA,01824
+392,91,"Community Education Center","Public School",Chelmsford,MA,01824
+393,91,"McCarthy Middle School","Public School",Chelmsford,MA,01824
+394,91,"South Row","Public School",Chelmsford,MA,01824
+395,92,"Chelsea High","Public School",Chelsea,MA,02150
+396,92,"Chelsea Opportunity Academy","Public School",Chelsea,MA,02150
+397,92,"Chelsea Virtual Learning Academy","Public School",Chelsea,MA,02150
+398,92,"Clark Avenue School","Public School",Chelsea,MA,02150
+399,92,"Edgar A Hooks Elementary","Public School",Chelsea,MA,02150
+400,92,"Eugene Wright Science and Technology Academy","Public School",Chelsea,MA,02150
+401,92,"Frank M Sokolowski Elementary","Public School",Chelsea,MA,02150
+402,92,"George F. Kelly Elementary","Public School",Chelsea,MA,02150
+403,92,"Joseph A. Browne School","Public School",Chelsea,MA,02150
+404,92,"Shurtleff Early Childhood","Public School",Chelsea,MA,02150
+405,92,"William A Berkowitz Elementary","Public School",Chelsea,MA,02150
+406,96,"New Hingham Regional Elementary","Public School",Chesterfield,MA,01012
+407,97,Barry,"Public School",Chicopee,MA,01020
+408,97,Belcher,"Public School",Chicopee,MA,01020
+409,97,"Bellamy Middle","Public School",Chicopee,MA,01020
+410,97,Bowe,"Public School",Chicopee,MA,01013
+411,97,Bowie,"Public School",Chicopee,MA,01022
+412,97,"Chicopee Academy","Public School",Chicopee,MA,01020
+413,97,"Chicopee Comprehensive High School","Public School",Chicopee,MA,01020
+414,97,"Chicopee High","Public School",Chicopee,MA,01020
+415,97,"Dupont Middle","Public School",Chicopee,MA,01013
+416,97,"Fairview Elementary","Public School",Chicopee,MA,01020
+417,97,"Gen John J Stefanik","Public School",Chicopee,MA,01013
+418,97,Lambert-Lavoie,"Public School",Chicopee,MA,01020
+419,97,Litwin,"Public School",Chicopee,MA,01020
+420,97,"Streiber Memorial School","Public School",Chicopee,MA,01020
+421,97,"Szetela Early Childhood Center","Public School",Chicopee,MA,01013
+422,99,"Christa McAuliffe Charter School","Charter School",Framingham,MA,01701
+423,100,"City on a Hill Charter Public School","Charter School",Roxbury,MA,02119
+424,101,"Clarksburg Elementary","Public School",Clarksburg,MA,01247
+425,102,"Clinton Elementary","Public School",Clinton,MA,01510
+426,102,"Clinton Middle School","Public School",Clinton,MA,01510
+427,102,"Clinton Senior High","Public School",Clinton,MA,01510
+428,103,"Codman Academy Charter Public School","Charter School",Dorchester,MA,02124
+429,104,"Cohasset High School","Public School",Cohasset,MA,02025
+430,104,"Cohasset Middle School","Public School",Cohasset,MA,02025
+431,104,"Deer Hill","Public School",Cohasset,MA,02025
+432,104,"Joseph Osgood","Public School",Cohasset,MA,02025
+433,105,"Collegiate Charter School of Lowell","Charter School",Lowell,MA,01851
+434,107,"Community Charter School of Cambridge","Charter School",Cambridge,MA,02141
+435,108,"Community Day Charter Public School","Charter School",Lawrence,MA,01841
+436,109,Alcott,"Public School",Concord,MA,01742
+437,109,"Concord Middle","Public School",Concord,MA,01742
+438,109,Thoreau,"Public School",Concord,MA,01742
+439,109,Willard,"Public School",Concord,MA,01742
+440,110,"Concord Carlisle High","Public School",Concord,MA,01742
+441,111,"Conservatory Lab Charter School","Charter School",Dorchester,MA,02125
+442,112,"Conway Grammar","Public School",Conway,MA,01341
+443,115,"Danvers High","Public School",Danvers,MA,01923
+444,115,"Great Oak","Public School",Danvers,MA,01923
+445,115,Highlands,"Public School",Danvers,MA,01923
+446,115,"Holten Richmond Middle School","Public School",Danvers,MA,01923
+447,115,"Ivan G Smith","Public School",Danvers,MA,01923
+448,115,Riverside,"Public School",Danvers,MA,01923
+449,115,"Willis E Thorpe","Public School",Danvers,MA,01923
+450,116,"Andrew B. Cushman School","Public School",Dartmouth,MA,02748
+451,116,"Dartmouth High","Public School",Dartmouth,MA,02748
+452,116,"Dartmouth Middle","Public School","North Dartmouth",MA,02747
+453,116,"George H Potter","Public School","North Dartmouth",MA,02747
+454,116,"James M. Quinn School","Public School",Dartmouth,MA,02747
+455,116,"Joseph Demello","Public School","South Dartmouth",MA,02748
+456,117,Avery,"Public School",Dedham,MA,02026
+457,117,"Dedham High","Public School",Dedham,MA,02026
+458,117,"Dedham Middle School","Public School",Dedham,MA,02026
+459,117,"Early Childhood Center","Public School",Dedham,MA,02026
+460,117,Greenlodge,"Public School",Dedham,MA,02026
+461,117,Oakdale,"Public School",Dedham,MA,02026
+462,117,Riverdale,"Public School",Dedham,MA,02026
+463,118,"Deerfield Elementary","Public School","South Deerfield",MA,01373
+464,120,"Dennis-Yarmouth Intermediate School","Public School","South Yarmouth",MA,02664
+465,120,"Dennis-Yarmouth Middle School","Public School","South Yarmouth",MA,02664
+466,120,"Dennis-Yarmouth Regional High","Public School","South Yarmouth",MA,02664
+467,120,"Ezra H Baker Innovation School","Public School","West Dennis",MA,02670
+468,120,"Marguerite E Small Elementary","Public School","West Yarmouth",MA,02673
+469,120,"Station Avenue Elementary","Public School","South Yarmouth",MA,02664
+470,123,"Dighton Elementary","Public School",Dighton,MA,02715
+471,123,"Dighton Middle School","Public School",Dighton,MA,02715
+472,123,"Dighton-Rehoboth Regional High School","Public School","North Dighton",MA,02764
+473,123,"Dorothy L Beckwith","Public School",Rehoboth,MA,02769
+474,123,"Palmer River","Public School",Rehoboth,MA,02769
+475,124,"Douglas Elementary School","Public School",Douglas,MA,01516
+476,124,"Douglas High School","Public School",Douglas,MA,01516
+477,124,"Douglas Middle School","Public School",Douglas,MA,01516
+478,124,"Douglas Primary School","Public School",Douglas,MA,01516
+479,125,Chickering,"Public School",Dover,MA,02030
+480,126,"Dover-Sherborn Regional High","Public School",Dover,MA,02030
+481,126,"Dover-Sherborn Regional Middle School","Public School",Dover,MA,02030
+482,127,"Brookside Elementary","Public School",Dracut,MA,01826
+483,127,"Dracut Senior High","Public School",Dracut,MA,01826
+484,127,"George H. Englesby Elementary School","Public School",Dracut,MA,01826
+485,127,"Greenmont Avenue","Public School",Dracut,MA,01826
+486,127,"Joseph A Campbell Elementary","Public School",Dracut,MA,01826
+487,127,"Justus C. Richardson Middle School","Public School",Dracut,MA,01826
+488,129,"Dudley Street Neighborhood Charter School","Charter School",Boston,MA,02119
+489,130,"Charlton Elementary","Public School",Charlton,MA,01507
+490,130,"Charlton Middle School","Public School",Charlton,MA,01507
+491,130,"Dudley Elementary","Public School",Dudley,MA,01571
+492,130,"Dudley Middle School","Public School",Dudley,MA,01571
+493,130,"Heritage School","Public School",Charlton,MA,01507
+494,130,"Mason Road School","Public School",Dudley,MA,01571
+495,130,"Shepherd Hill Regional High","Public School",Dudley,MA,01571
+496,132,"Alden School","Public School",Duxbury,MA,02332
+497,132,"Chandler Elementary","Public School",Duxbury,MA,02332
+498,132,"Duxbury High","Public School",Duxbury,MA,02332
+499,132,"Duxbury Middle","Public School",Duxbury,MA,02332
+500,133,Central,"Public School","East Bridgewater",MA,02333
+501,133,"East Bridgewater JR./SR. High School","Public School","East Bridgewater",MA,02333
+502,133,"Gordon W. Mitchell School","Public School","East Bridgewater",MA,02333
+503,135,"Birchland Park","Public School","East Longmeadow",MA,01028
+504,135,"East Longmeadow High","Public School","East Longmeadow",MA,01028
+505,135,Mapleshade,"Public School","East Longmeadow",MA,01028
+506,135,"Meadow Brook","Public School","East Longmeadow",MA,01028
+507,135,"Mountain View","Public School","East Longmeadow",MA,01028
+508,136,"Eastham Elementary","Public School",Eastham,MA,02642
+509,137,"Easthampton High","Public School",Easthampton,MA,01027
+510,137,"Mountain View School","Public School",Easthampton,MA,01027
+511,138,"Blanche A. Ames Elementary School","Public School","North Easton",MA,02356
+512,138,"Easton Middle School","Public School","North Easton",MA,02356
+513,138,"Oliver Ames High","Public School","North Easton",MA,02356
+514,138,"Richardson Olmsted School","Public School","North Easton",MA,02356
+515,139,"Edgartown Elementary","Public School",Edgartown,MA,02539
+516,140,"Edward M. Kennedy Academy for Health Careers: A Horace Mann Charter Public School","Charter School",Boston,MA,02115
+517,142,"Erving Elementary","Public School",Erving,MA,01344
+518,144,"Essex North Shore Agricultural and Technical School","Public School",Hathorne,MA,01937
+519,145,"Adams School","Public School",Everett,MA,02149
+520,145,"Devens School","Public School",Everett,MA,02149
+521,145,"Everett High","Public School",Everett,MA,02149
+522,145,"George Keverian School","Public School",Everett,MA,02149
+523,145,"Lafayette School","Public School",Everett,MA,02149
+524,145,"Madeline English School","Public School",Everett,MA,02149
+525,145,"Parlin School","Public School",Everett,MA,02149
+526,145,"Sumner G. Whittier School","Public School",Everett,MA,02149
+527,145,"Webster Extension","Public School",Everett,MA,02149
+528,145,"Webster School","Public School",Everett,MA,02149
+529,146,"Excel Academy Charter School","Charter School","East Boston",MA,02128
+530,147,"East Fairhaven","Public School",Fairhaven,MA,02719
+531,147,"Fairhaven High","Public School",Fairhaven,MA,02719
+532,147,"Hastings Middle","Public School",Fairhaven,MA,02719
+533,147,"Leroy Wood","Public School",Fairhaven,MA,02719
+534,148,"B M C Durfee High","Public School","Fall River",MA,02720
+535,148,"Carlton M. Viveiros Elementary School","Public School","Fall River",MA,02724
+536,148,"Early Learning Center","Public School","Fall River",MA,02721
+537,148,"Henry Lord Community School","Public School","Fall River",MA,02721
+538,148,"James Tansey","Public School","Fall River",MA,02720
+539,148,"John J Doran","Public School","Fall River",MA,02721
+540,148,"Letourneau Elementary School","Public School","Fall River",MA,02721
+541,148,"Mary Fonseca Elementary School","Public School","Fall River",MA,02720
+542,148,"Matthew J Kuss Middle","Public School","Fall River",MA,02724
+543,148,"Morton Middle","Public School","Fall River",MA,02720
+544,148,"North End Elementary","Public School","Fall River",MA,02720
+545,148,"Resiliency Preparatory Academy","Public School","Fall River",MA,02720
+546,148,"Samuel Watson","Public School","Fall River",MA,02723
+547,148,"Spencer Borden","Public School","Fall River",MA,02720
+548,148,"Stone PK-12 School","Public School","Fall River",MA,02720
+549,148,"Talbot Innovation School","Public School","Fall River",MA,02723
+550,148,"William S Greene","Public School","Fall River",MA,02721
+551,149,"East Falmouth Elementary","Public School","East Falmouth",MA,02536
+552,149,"Falmouth High","Public School",Falmouth,MA,02540
+553,149,Lawrence,"Public School",Falmouth,MA,02540
+554,149,"Morse Pond School","Public School",Falmouth,MA,02540
+555,149,Mullen-Hall,"Public School",Falmouth,MA,02540
+556,149,"North Falmouth Elementary","Public School","North Falmouth",MA,02556
+557,149,Teaticket,"Public School","East Falmouth",MA,02536
+558,150,"Farmington River Elementary","Public School",Otis,MA,01253
+559,151,"Arthur M Longsjo Middle School","Public School",Fitchburg,MA,01420
+560,151,"Crocker Elementary","Public School",Fitchburg,MA,01420
+561,151,"Fitchburg High","Public School",Fitchburg,MA,01420
+562,151,"Goodrich Academy","Public School",Fitchburg,MA,01420
+563,151,"McKay Elementary School","Public School",Fitchburg,MA,01420
+564,151,"Memorial Middle School","Public School",Fitchburg,MA,01420
+565,151,"Reingold Elementary","Public School",Fitchburg,MA,01420
+566,151,"South Street Early Learning Center","Public School",Fitchburg,MA,01420
+567,152,"Abbott Memorial","Public School",Florida,MA,01247
+568,153,"Four Rivers Charter Public School","Charter School",Greenfield,MA,01301
+569,154,"Charles Taylor Elementary","Public School",Foxborough,MA,02035
+570,154,"Foxborough High","Public School",Foxborough,MA,02035
+571,154,"John J Ahern","Public School",Foxborough,MA,02035
+572,154,"Mabelle M Burrell","Public School",Foxborough,MA,02035
+573,154,"Vincent M Igo Elementary","Public School",Foxborough,MA,02035
+574,155,"Foxborough Regional Charter School","Charter School",Foxborough,MA,02035
+575,156,"Barbieri Elementary","Public School",Framingham,MA,01701
+576,156,Brophy,"Public School",Framingham,MA,01701
+577,156,"Cameron Middle School","Public School",Framingham,MA,01701
+578,156,"Charlotte A Dunning","Public School",Framingham,MA,01701
+579,156,"Framingham High School","Public School",Framingham,MA,01701
+580,156,"Fuller Middle","Public School",Framingham,MA,01701
+581,156,"Harmony Grove Elementary","Public School",Framingham,MA,01702
+582,156,Hemenway,"Public School",Framingham,MA,01701
+583,156,"Juniper Hill School","Public School",Framingham,MA,01701
+584,156,"King Elementary School","Public School",Framingham,MA,01701
+585,156,"Mary E Stapleton Elementary","Public School",Framingham,MA,01701
+586,156,"Miriam F McCarthy School","Public School",Framingham,MA,01701
+587,156,"Potter Road","Public School",Framingham,MA,01701
+588,156,"Walsh Middle","Public School",Framingham,MA,01701
+589,157,"Francis W. Parker Charter Essential School","Charter School",Devens,MA,01434
+590,158,"Annie Sullivan Middle School","Public School",Franklin,MA,02038
+591,158,"Franklin Early Childhood Development Center","Public School",Franklin,MA,02038
+592,158,"Franklin High","Public School",Franklin,MA,02038
+593,158,"Helen Keller Elementary","Public School",Franklin,MA,02038
+594,158,"Horace Mann","Public School",Franklin,MA,02038
+595,158,"J F Kennedy Memorial","Public School",Franklin,MA,02038
+596,158,"Jefferson Elementary","Public School",Franklin,MA,02038
+597,158,"Oak Street Elementary","Public School",Franklin,MA,02038
+598,158,Parmenter,"Public School",Franklin,MA,02038
+599,158,"Remington Middle","Public School",Franklin,MA,02038
+600,159,"Franklin County Technical","Public School","Turners Falls",MA,01376
+601,161,"Apponequet Regional High","Public School",Lakeville,MA,02347
+602,161,"Assawompset Elementary School","Public School",Lakeville,MA,02347
+603,161,"Freetown Elementary School","Public School","East Freetown",MA,02717
+604,161,"Freetown-Lakeville Middle School","Public School",Lakeville,MA,02347
+605,161,"George R Austin Intermediate School","Public School",Lakeville,MA,02347
+606,162,"Frontier Regional","Public School","South Deerfield",MA,01373
+607,163,"Gardner Academy for Learning and Technology","Public School",Gardner,MA,01440
+608,163,"Gardner Elementary School","Public School",Gardner,MA,01440
+609,163,"Gardner High","Public School",Gardner,MA,01440
+610,163,"Gardner Middle School","Public School",Gardner,MA,01440
+611,164,"Chester Elementary","Public School",Chester,MA,01011
+612,164,"Gateway Regional High","Public School",Huntington,MA,01050
+613,164,"Gateway Regional Middle School","Public School",Huntington,MA,01050
+614,164,"Littleville Elementary School","Public School",Huntington,MA,01050
+615,165,"Georgetown High School","Public School",Georgetown,MA,01833
+616,165,"Georgetown Middle School","Public School",Georgetown,MA,01833
+617,165,"Penn Brook","Public School",Georgetown,MA,01833
+618,165,"Perley Elementary","Public School",Georgetown,MA,01833
+619,167,"Gill Elementary","Public School",Gill,MA,01354
+620,167,"Great Falls Middle","Public School",Montague,MA,01351
+621,167,"Hillcrest Elementary School","Public School","Turners Falls",MA,01376
+622,167,"Sheffield Elementary School","Public School","Turners Falls",MA,01376
+623,167,"Turners Fall High","Public School",Montague,MA,01351
+624,168,"Global Learning Charter Public School","Charter School","New Bedford",MA,02746
+625,169,"Beeman Memorial","Public School",Gloucester,MA,01930
+626,169,"East Gloucester Elementary","Public School",Gloucester,MA,01930
+627,169,"Gloucester High","Public School",Gloucester,MA,01930
+628,169,"Gloucester PreSchool","Public School",Gloucester,MA,01930
+629,169,"Plum Cove School","Public School",Gloucester,MA,01930
+630,169,"Ralph B O'Maley Middle","Public School",Gloucester,MA,01930
+631,169,"Veterans Memorial","Public School",Gloucester,MA,01930
+632,169,"West Parish","Public School",Gloucester,MA,01930
+633,171,"Cuttyhunk Elementary","Public School",Cuttyhunk,MA,02713
+634,172,"Grafton High School","Public School",Grafton,MA,01519
+635,172,"Grafton Middle","Public School",Grafton,MA,01519
+636,172,"Millbury Street Elementary School","Public School",Grafton,MA,01519
+637,172,"North Grafton Elementary","Public School","North Grafton",MA,01536
+638,172,"North Street Elementary School","Public School",Grafton,MA,01519
+639,172,"South Grafton Elementary","Public School","South Grafton",MA,01560
+640,173,"East Meadow","Public School",Granby,MA,01033
+641,173,"Granby Jr Sr High School","Public School",Granby,MA,01033
+642,176,"Greater Commonwealth Virtual School","Public School",Greenfield,MA,01301
+643,177,"Diman Regional Vocational Technical High","Public School","Fall River",MA,02723
+644,178,"Gr Lawrence Regional Vocational Technical","Public School",Andover,MA,01810
+645,179,"Gr Lowell Regional Vocational Technical","Public School",Tyngsborough,MA,01879
+646,180,"Gr New Bedford Vocational Technical","Public School","New Bedford",MA,02745
+647,181,"Discovery School at Four Corners","Public School",Greenfield,MA,01301
+648,181,"Federal Street School","Public School",Greenfield,MA,01301
+649,181,"Greenfield High","Public School",Greenfield,MA,01301
+650,181,"Greenfield Middle","Public School",Greenfield,MA,01301
+651,181,"Newton School","Public School",Greenfield,MA,01301
+652,181,"The Academy of Early Learning at North Parish","Public School",Greenfield,MA,01301
+653,183,"Boutwell School","Public School",Groton,MA,01450
+654,183,"Florence Roche School","Public School",Groton,MA,01450
+655,183,"Groton Dunstable Regional","Public School",Groton,MA,01450
+656,183,"Groton Dunstable Regional Middle","Public School",Groton,MA,01450
+657,183,"Swallow/Union School","Public School",Dunstable,MA,01827
+658,185,"Hadley Elementary","Public School",Hadley,MA,01035
+659,185,"Hopkins Academy","Public School",Hadley,MA,01035
+660,186,"Halifax Elementary","Public School",Halifax,MA,02338
+661,188,"Bessie Buker Elementary","Public School",Wenham,MA,01984
+662,188,"Cutler School","Public School","South Hamilton",MA,01982
+663,188,"Hamilton-Wenham Regional High","Public School","South Hamilton",MA,01982
+664,188,"Miles River Middle","Public School",Hamilton,MA,01982
+665,188,"Winthrop School","Public School","South Hamilton",MA,01982
+666,190,"Hampden Charter School of Science East","Charter School",Chicopee,MA,01022
+667,191,"Hampden Charter School of Science West","Charter School","West Springfield",MA,01089
+668,192,"Green Meadows Elementary","Public School",Hampden,MA,01036
+669,192,"Mile Tree Elementary","Public School",Wilbraham,MA,01095
+670,192,"Minnechaug Regional High","Public School",Wilbraham,MA,01095
+671,192,"Soule Road","Public School",Wilbraham,MA,01095
+672,192,"Stony Hill School","Public School",Wilbraham,MA,01095
+673,192,"Wilbraham Middle","Public School",Wilbraham,MA,01095
+674,193,"Hampshire Regional High","Public School",Westhampton,MA,01027
+675,194,"Hancock Elementary","Public School",Hancock,MA,01237
+676,195,"Cedar Elementary","Public School",Hanover,MA,02339
+677,195,"Center Elementary","Public School",Hanover,MA,02339
+678,195,"Hanover High","Public School",Hanover,MA,02339
+679,195,"Hanover Middle","Public School",Hanover,MA,02339
+680,198,Bromfield,"Public School",Harvard,MA,01451
+681,198,"Hildreth Elementary School","Public School",Harvard,MA,01451
+682,200,"Hatfield Elementary","Public School",Hatfield,MA,01038
+683,200,"Smith Academy","Public School",Hatfield,MA,01038
+684,201,"Bartlett School and Assessment Center","Public School",Haverhill,MA,01830
+685,201,"Bradford Elementary","Public School",Bradford,MA,01835
+686,201,"Caleb Dustin Hunking School","Public School",Haverhill,MA,01835
+687,201,"Consentino Middle School","Public School",Haverhill,MA,01832
+688,201,"Dr Paul Nettle","Public School",Haverhill,MA,01830
+689,201,"Gateway Academy","Public School",Haverhill,MA,01830
+690,201,"Golden Hill","Public School",Haverhill,MA,01830
+691,201,"Greenleaf Academy","Public School",Bradford,MA,01835
+692,201,"Haverhill High","Public School",Haverhill,MA,01832
+693,201,"John G Whittier","Public School",Haverhill,MA,01830
+694,201,Moody,"Public School",Haverhill,MA,01832
+695,201,"Moody Preschool Extension","Public School",Haverhill,MA,01830
+696,201,"Pentucket Lake Elementary","Public School",Haverhill,MA,01830
+697,201,"Silver Hill Elementary School","Public School",Haverhill,MA,01832
+698,201,Tilton,"Public School",Haverhill,MA,01832
+699,201,"Tilton Upper Middle School","Public School",Haverhill,MA,01830
+700,201,"Walnut Square","Public School",Haverhill,MA,01830
+701,202,"Hawlemont Regional","Public School",Charlemont,MA,01339
+702,205,"Helen Y. Davis Leadership Academy Charter Public School","Charter School",Boston,MA,02122
+703,206,"Hill View Montessori Charter Public School","Charter School",Haverhill,MA,01835
+704,207,"Hilltown Cooperative Charter Public School","Charter School",Easthampton,MA,01027
+705,208,"East Elementary School","Public School",Hingham,MA,02043
+706,208,"Hingham High","Public School",Hingham,MA,02043
+707,208,"Hingham Middle School","Public School",Hingham,MA,02043
+708,208,"Plymouth River","Public School",Hingham,MA,02043
+709,208,"South Elementary","Public School",Hingham,MA,02043
+710,208,"Wm L Foster Elementary","Public School",Hingham,MA,02043
+711,210,"Holbrook Middle High School","Public School",Holbrook,MA,02343
+712,210,"John F Kennedy","Public School",Holbrook,MA,02343
+713,212,"Holland Elementary","Public School",Holland,MA,01521
+714,213,"Holliston High","Public School",Holliston,MA,01746
+715,213,"Miller School","Public School",Holliston,MA,01746
+716,213,"Placentino Elementary","Public School",Holliston,MA,01746
+717,213,"Robert H. Adams Middle School","Public School",Holliston,MA,01746
+718,214,"E N White Elementary","Public School",Holyoke,MA,01040
+719,214,"H.B. Lawrence School","Public School",Holyoke,MA,01040
+720,214,"Holyoke High","Public School",Holyoke,MA,01040
+721,214,"Holyoke Middle School","Public School",Holyoke,MA,01040
+722,214,"Holyoke STEM Academy","Public School",Holyoke,MA,01040
+723,214,"Joseph Metcalf School","Public School",Holyoke,MA,01040
+724,214,"Kelly Elementary","Public School",Holyoke,MA,01040
+725,214,"Lt Clayre Sullivan Elementary","Public School",Holyoke,MA,01040
+726,214,"Lt Elmer J McMahon Elementary","Public School",Holyoke,MA,01040
+727,214,"Maurice A Donahue Elementary","Public School",Holyoke,MA,01040
+728,214,"Morgan Full Service Community School","Public School",Holyoke,MA,01040
+729,214,"William R. Peck School","Public School",Holyoke,MA,01040
+730,215,"Holyoke Community Charter School","Charter School",Holyoke,MA,01040
+731,216,"Hoosac Valley Elementary School","Public School",Adams,MA,01220
+732,216,"Hoosac Valley High School","Public School",Cheshire,MA,01225
+733,216,"Hoosac Valley Middle School","Public School",Cheshire,MA,01225
+734,217,"Hopedale Jr Sr High","Public School",Hopedale,MA,01747
+735,217,Memorial,"Public School",Hopedale,MA,01747
+736,217,"Park Street School","Public School",Hopedale,MA,01747
+737,218,Elmwood,"Public School",Hopkinton,MA,01748
+738,218,"Hopkins Elementary School","Public School",Hopkinton,MA,01748
+739,218,"Hopkinton High","Public School",Hopkinton,MA,01748
+740,218,"Hopkinton Middle School","Public School",Hopkinton,MA,01748
+741,218,"Hopkinton Pre-School","Public School",Hopkinton,MA,01748
+742,218,"Marathon Elementary School","Public School",Hopkinton,MA,01748
+743,220,"C A Farley","Public School",Hudson,MA,01749
+744,220,"David J. Quinn Middle School","Public School",Hudson,MA,01749
+745,220,"Forest Avenue Elementary","Public School",Hudson,MA,01749
+746,220,"Hudson High","Public School",Hudson,MA,01749
+747,220,"Mulready Elementary","Public School",Hudson,MA,01749
+748,221,"Hull High","Public School",Hull,MA,02045
+749,221,"Lillian M Jacobs","Public School",Hull,MA,02045
+750,221,"Memorial Middle","Public School",Hull,MA,02045
+751,223,"Innovation Academy Charter School","Charter School",Tyngsboro,MA,01879
+752,224,"Central Area","Public School",Westborough,MA,01581
+753,224,"East Area","Public School",Westborough,MA,01581
+754,224,"Pappas Rehabilitation Hospital for Children","Public School",Canton,MA,02021
+755,224,"Southeast Area","Public School",Westborough,MA,01581
+756,224,"West Area","Public School",Westborough,MA,01581
+757,225,"Ipswich High","Public School",Ipswich,MA,01938
+758,225,"Ipswich Middle School","Public School",Ipswich,MA,01938
+759,225,"Paul F Doyon Memorial","Public School",Ipswich,MA,01938
+760,225,Winthrop,"Public School",Ipswich,MA,01938
+761,226,"KIPP Academy Boston Charter School","Charter School",Mattapan,MA,02126
+762,227,"KIPP Academy Lynn Charter School","Charter School",Lynn,MA,01902
+763,228,"King Philip Middle School","Public School",Norfolk,MA,02056
+764,228,"King Philip Regional High","Public School",Wrentham,MA,02093
+765,229,"Kingston Elementary","Public School",Kingston,MA,02364
+766,229,"Kingston Intermediate","Public School",Kingston,MA,02364
+767,233,"Alexander B Bruce","Public School",Lawrence,MA,01841
+768,233,"Arlington Elementary","Public School",Lawrence,MA,01841
+769,233,"Arlington Middle School","Public School",Lawrence,MA,01841
+770,233,"Edward F. Parthum","Public School",Lawrence,MA,01841
+771,233,"Emily G Wetherbee","Public School",Lawrence,MA,01843
+772,233,"Francis M Leahy","Public School",Lawrence,MA,01843
+773,233,"Frost Middle School","Public School",Lawrence,MA,01843
+774,233,"Gerard A. Guilmette","Public School",Lawrence,MA,01841
+775,233,"Guilmette Middle School","Public School",Lawrence,MA,01841
+776,233,"High School Learning Center","Public School",Lawrence,MA,01843
+777,233,"James F Hennessey","Public School",Lawrence,MA,01841
+778,233,"John Breen School","Public School",Lawrence,MA,01843
+779,233,"John K Tarbox","Public School",Lawrence,MA,01841
+780,233,"Lawlor Early Childhood Center","Public School",Lawrence,MA,01841
+781,233,"Lawrence Family Public Academy","Public School",Lawrence,MA,01841
+782,233,"Lawrence High School","Public School",Lawrence,MA,01843
+783,233,"Leonard Middle School","Public School",Lawrence,MA,01841
+784,233,"Oliver Elementary School","Public School",Lawrence,MA,01840
+785,233,"Oliver Middle School","Public School",Lawrence,MA,01840
+786,233,"Parthum Middle School","Public School",Lawrence,MA,01841
+787,233,"RISE Academy","Public School",Lawrence,MA,01841
+788,233,"Robert Frost","Public School",Lawrence,MA,01843
+789,233,"Rollins Early Childhood Center","Public School",Lawrence,MA,01841
+790,233,"School for Exceptional Studies","Public School",Lawrence,MA,01841
+791,233,"South Lawrence East Elementary School","Public School",Lawrence,MA,01843
+792,233,"Spark Academy","Public School",Lawrence,MA,01843
+793,234,"Lawrence Family Development Charter School","Charter School",Lawrence,MA,01841
+794,235,"Learning First Charter Public School","Charter School",Worcester,MA,01610
+795,236,"Lee Elementary","Public School",Lee,MA,01238
+796,236,"Lee Middle/High School","Public School",Lee,MA,01238
+797,237,"Leicester Elementary","Public School",Leicester,MA,01524
+798,237,"Leicester High","Public School",Leicester,MA,01524
+799,237,"Leicester Integrated Preschool","Public School",Leicester,MA,01524
+800,237,"Leicester Middle","Public School",Leicester,MA,01524
+801,238,"Lenox Memorial High","Public School",Lenox,MA,01240
+802,238,Morris,"Public School",Lenox,MA,01240
+803,239,Bennett,"Public School",Leominster,MA,01453
+804,239,"Center For Technical Education Innovation","Public School",Leominster,MA,01453
+805,239,"Fall Brook","Public School",Leominster,MA,01453
+806,239,"Frances Drake School","Public School",Leominster,MA,01453
+807,239,"Johnny Appleseed","Public School",Leominster,MA,01453
+808,239,"Leominster Center for Excellence","Public School",Leominster,MA,01453
+809,239,"Leominster High School","Public School",Leominster,MA,01453
+810,239,"Lincoln School","Public School",Leominster,MA,01453
+811,239,Northwest,"Public School",Leominster,MA,01453
+812,239,"Priest Street","Public School",Leominster,MA,01453
+813,239,"Samoset School","Public School",Leominster,MA,01453
+814,239,"Sky View Middle School","Public School",Leominster,MA,01453
+815,240,"Leverett Elementary","Public School",Leverett,MA,01054
+816,241,Bowman,"Public School",Lexington,MA,02421
+817,241,Bridge,"Public School",Lexington,MA,02421
+818,241,Fiske,"Public School",Lexington,MA,02420
+819,241,Harrington,"Public School",Lexington,MA,02420
+820,241,"Jonas Clarke Middle","Public School",Lexington,MA,02421
+821,241,"Joseph Estabrook","Public School",Lexington,MA,02420
+822,241,"Lexington Children's Place","Public School",Lexington,MA,02421
+823,241,"Lexington High","Public School",Lexington,MA,02421
+824,241,"Maria Hastings","Public School",Lexington,MA,02421
+825,241,"Wm Diamond Middle","Public School",Lexington,MA,02420
+826,243,"Libertas Academy Charter School","Charter School",Springfield,MA,01103
+827,244,"Hanscom Middle","Public School","Hanscom Air Force Base",MA,01731
+828,244,"Hanscom Primary","Public School","Hanscom Air Force Base",MA,01731
+829,244,"Lincoln School","Public School",Lincoln,MA,01773
+830,245,"Lincoln-Sudbury Regional High","Public School",Sudbury,MA,01776
+831,246,"Littleton High School","Public School",Littleton,MA,01460
+832,246,"Littleton Middle School","Public School",Littleton,MA,01460
+833,246,"Russell St Elementary","Public School",Littleton,MA,01460
+834,246,"Shaker Lane Elementary","Public School",Littleton,MA,01460
+835,247,"Blueberry Hill","Public School",Longmeadow,MA,01106
+836,247,Center,"Public School",Longmeadow,MA,01106
+837,247,"Glenbrook Middle","Public School",Longmeadow,MA,01106
+838,247,"Longmeadow High","Public School",Longmeadow,MA,01106
+839,247,"Williams Middle","Public School",Longmeadow,MA,01106
+840,247,"Wolf Swamp Road","Public School",Longmeadow,MA,01106
+841,248,"Abraham Lincoln","Public School",Lowell,MA,01851
+842,248,"B.F. Butler Middle School","Public School",Lowell,MA,01852
+843,248,"Bartlett Community Partnership","Public School",Lowell,MA,01854
+844,248,"Cardinal O'Connell Early Learning Center","Public School",Lowell,MA,01852
+845,248,"Charles W Morey","Public School",Lowell,MA,01851
+846,248,"Charlotte M Murkland Elementary","Public School",Lowell,MA,01854
+847,248,"Dr An Wang School","Public School",Lowell,MA,01854
+848,248,"Dr Gertrude Bailey","Public School",Lowell,MA,01851
+849,248,"Dr. Janice Adie Day School","Public School",Chelmsford,MA,01851
+850,248,Greenhalge,"Public School",Lowell,MA,01850
+851,248,"Henry J Robinson Middle","Public School",Lowell,MA,01850
+852,248,"James S Daley Middle School","Public School",Lowell,MA,01851
+853,248,"James Sullivan Middle School","Public School",Lowell,MA,01852
+854,248,"John J Shaughnessy","Public School",Lowell,MA,01852
+855,248,"Joseph McAvinnue","Public School",Lowell,MA,01854
+856,248,"Kathryn P. Stoklosa Middle School","Public School",Lowell,MA,01854
+857,248,"Laura Lee Therapeutic Day School","Public School",Lowell,MA,01851
+858,248,"Leblanc Therapeutic Day School","Public School",Lowell,MA,01852
+859,248,"Lowell High","Public School",Lowell,MA,01852
+860,248,"Moody Elementary","Public School",Lowell,MA,01852
+861,248,"Pawtucketville Memorial","Public School",Lowell,MA,01854
+862,248,"Peter W Reilly","Public School",Lowell,MA,01852
+863,248,"Pyne Arts","Public School",Lowell,MA,01852
+864,248,"Rogers STEM Academy","Public School",Lowell,MA,01852
+865,248,"S Christa McAuliffe Elementary","Public School",Lowell,MA,01850
+866,248,"The Career Academy","Public School",Lowell,MA,01851
+867,248,Washington,"Public School",Lowell,MA,01851
+868,249,"Lowell Community Charter Public School","Charter School",Lowell,MA,01852
+869,250,"Lowell Middlesex Academy Charter School","Charter School",Lowell,MA,01852
+870,251,"East Street Elementary School","Public School",Ludlow,MA,01056
+871,251,"Harris Brook Elementary School","Public School",Ludlow,MA,01056
+872,251,"Ludlow Senior High","Public School",Ludlow,MA,01056
+873,251,"Paul R Baird Middle","Public School",Ludlow,MA,01056
+874,252,"Advanced Community Experience Program","Public School",Lunenburg,MA,01462
+875,252,"Lunenburg High","Public School",Lunenburg,MA,01462
+876,252,"Lunenburg Middle School","Public School",Lunenburg,MA,01462
+877,252,"Lunenburg Primary School","Public School",Lunenburg,MA,01462
+878,252,"Turkey Hill Elementary School","Public School",Lunenburg,MA,01462
+879,253,"A Drewicz Elementary","Public School",Lynn,MA,01905
+880,253,Aborn,"Public School",Lynn,MA,01902
+881,253,"Breed Middle School","Public School",Lynn,MA,01905
+882,253,"Brickett Elementary","Public School",Lynn,MA,01902
+883,253,"Capt William G Shoemaker","Public School",Lynn,MA,01904
+884,253,"Classical High","Public School",Lynn,MA,01905
+885,253,"Cobbet Elementary","Public School",Lynn,MA,01902
+886,253,"E J Harrington","Public School",Lynn,MA,01902
+887,253,"Edward A Sisson","Public School",Lynn,MA,01904
+888,253,"Fecteau-Leary Junior/Senior High School","Public School",Lynn,MA,01902
+889,253,"Fredrick Douglass Collegiate Academy","Public School",Lynn,MA,01901
+890,253,Hood,"Public School",Lynn,MA,01902
+891,253,Ingalls,"Public School",Lynn,MA,01902
+892,253,"Julia F Callahan","Public School",Lynn,MA,01905
+893,253,Lincoln-Thomson,"Public School",Lynn,MA,01905
+894,253,"Lynn English High","Public School",Lynn,MA,01902
+895,253,"Lynn Vocational Technical Institute","Public School",Lynn,MA,01902
+896,253,"Lynn Woods","Public School",Lynn,MA,01904
+897,253,"Pickering Middle","Public School",Lynn,MA,01904
+898,253,"Robert L Ford","Public School",Lynn,MA,01902
+899,253,Sewell-Anderson,"Public School",Lynn,MA,01905
+900,253,"Thurgood Marshall Mid","Public School",Lynn,MA,01902
+901,253,Tracy,"Public School",Lynn,MA,01905
+902,253,"Virginia Barton Early Childhood Center","Public School",Lynn,MA,01905
+903,253,"Washington Elementary School","Public School",Lynn,MA,01902
+904,253,"William R Fallon","Public School",Lynn,MA,01905
+905,253,"Wm P Connery","Public School",Lynn,MA,01905
+906,254,"Huckleberry Hill","Public School",Lynnfield,MA,01940
+907,254,"Lynnfield High","Public School",Lynnfield,MA,01940
+908,254,"Lynnfield Middle School","Public School",Lynnfield,MA,01940
+909,254,"Lynnfield Preschool","Public School",Lynnfield,MA,01940
+910,254,"Summer Street","Public School",Lynnfield,MA,01940
+911,255,"Ma Academy for Math and Science School","Public School",Worcester,MA,01605
+912,256,Beebe,"Public School",Malden,MA,02148
+913,256,Ferryway,"Public School",Malden,MA,02148
+914,256,Forestdale,"Public School",Malden,MA,02148
+915,256,Linden,"Public School",Malden,MA,02148
+916,256,"Malden Early Learning Center","Public School",Malden,MA,02148
+917,256,"Malden High","Public School",Malden,MA,02148
+918,256,Salemwood,"Public School",Malden,MA,02148
+919,258,"Essex Elementary","Public School",Essex,MA,01929
+920,258,"Manchester Essex Regional High School","Public School",Manchester,MA,01944
+921,258,"Manchester Essex Regional Middle School","Public School",Manchester,MA,01944
+922,258,"Manchester Memorial Elementary","Public School",Manchester,MA,01944
+923,259,"Everett W Robinson","Public School",Mansfield,MA,02048
+924,259,"Harold L Qualters Middle","Public School",Mansfield,MA,02048
+925,259,"Jordan/Jackson Elementary","Public School",Mansfield,MA,02048
+926,259,"Mansfield High","Public School",Mansfield,MA,02048
+927,259,"Roland Green School","Public School",Mansfield,MA,02048
+928,260,"Map Academy Charter School","Charter School",Plymouth,MA,02360
+929,261,Glover,"Public School",Marblehead,MA,01945
+930,261,"Lucretia and Joseph Brown School","Public School",Marblehead,MA,01945
+931,261,"Marblehead High","Public School",Marblehead,MA,01945
+932,261,"Marblehead Veterans Middle School","Public School",Marblehead,MA,01945
+933,261,"Village School","Public School",Marblehead,MA,01945
+934,262,"Marblehead Community Charter Public School","Charter School",Marblehead,MA,01945
+935,263,Sippican,"Public School",Marion,MA,02738
+936,264,"1 LT Charles W. Whitcomb School","Public School",Marlborough,MA,01752
+937,264,"Charles Jaworek School","Public School",Marlborough,MA,01752
+938,264,"Early Childhood Center","Public School",Marlborough,MA,01752
+939,264,"Francis J Kane","Public School",Marlborough,MA,01752
+940,264,"Goodnow Brothers Elementary School","Public School",Marlborough,MA,01752
+941,264,"Marlborough High","Public School",Marlborough,MA,01752
+942,264,Richer,"Public School",Marlborough,MA,01752
+943,265,"Daniel Webster","Public School",Marshfield,MA,02050
+944,265,"Eames Way School","Public School",Marshfield,MA,02050
+945,265,"Furnace Brook Middle","Public School",Marshfield,MA,02050
+946,265,"Gov Edward Winslow","Public School",Marshfield,MA,02050
+947,265,"Marshfield High","Public School",Marshfield,MA,02050
+948,265,"Martinson Elementary","Public School",Marshfield,MA,02050
+949,265,"South River","Public School",Marshfield,MA,02050
+950,266,"Martha's Vineyard Regional High","Public School","Oak Bluffs",MA,02557
+951,267,"Martha's Vineyard Charter Public School","Charter School","West Tisbury",MA,02575
+952,268,"Martin Luther King, Jr. Charter School of Excellence","Charter School",Springfield,MA,01108
+953,269,"Masconomet Regional High School","Public School",Boxford,MA,01921
+954,269,"Masconomet Regional Middle School","Public School",Boxford,MA,01921
+955,270,"Kenneth Coombs School","Public School",Mashpee,MA,02649
+956,270,"Mashpee Middle-High School","Public School",Mashpee,MA,02649
+957,270,"Quashnet School","Public School",Mashpee,MA,02649
+958,271,"Match Charter Public School","Charter School",Boston,MA,02215
+959,272,Center,"Public School",Mattapoisett,MA,02739
+960,272,"Old Hammondtown","Public School",Mattapoisett,MA,02739
+961,273,"Fowler School","Public School",Maynard,MA,01754
+962,273,"Green Meadow","Public School",Maynard,MA,01754
+963,273,"Maynard High","Public School",Maynard,MA,01754
+964,274,"Dale Street","Public School",Medfield,MA,02052
+965,274,"Medfield Senior High","Public School",Medfield,MA,02052
+966,274,"Memorial School","Public School",Medfield,MA,02052
+967,274,"Ralph Wheelock School","Public School",Medfield,MA,02052
+968,274,"Thomas Blake Middle","Public School",Medfield,MA,02052
+969,275,"Brooks School","Public School",Medford,MA,02155
+970,275,Curtis-Tufts,"Public School",Medford,MA,02155
+971,275,"John J McGlynn Elementary School","Public School",Medford,MA,02155
+972,275,"John J. McGlynn Middle School","Public School",Medford,MA,02155
+973,275,"Madeleine Dugger Andrews","Public School",Medford,MA,02155
+974,275,"Medford High","Public School",Medford,MA,02155
+975,275,"Milton Fuller Roberts","Public School",Medford,MA,02155
+976,275,"Missituk Elementary School","Public School",Medford,MA,02155
+977,276,"Burke/Memorial Elementary School","Public School",Medway,MA,02053
+978,276,"John D Mc Govern Elementary","Public School",Medway,MA,02053
+979,276,"Medway High","Public School",Medway,MA,02053
+980,276,"Medway Middle","Public School",Medway,MA,02053
+981,277,"Early Childhood Center","Public School",Melrose,MA,02176
+982,277,"Herbert Clark Hoover","Public School",Melrose,MA,02176
+983,277,"Horace Mann","Public School",Melrose,MA,02176
+984,277,Lincoln,"Public School",Melrose,MA,02176
+985,277,"Melrose High","Public School",Melrose,MA,02176
+986,277,"Melrose Middle","Public School",Melrose,MA,02176
+987,277,Roosevelt,"Public School",Melrose,MA,02176
+988,277,Winthrop,"Public School",Melrose,MA,02176
+989,279,"Henry P Clough","Public School",Mendon,MA,01756
+990,279,"Memorial School","Public School",Upton,MA,01568
+991,279,"Miscoe Hill School","Public School",Mendon,MA,01756
+992,279,"Nipmuc Regional High","Public School",Upton,MA,01568
+993,281,"Comprehensive Grammar School","Public School",Methuen,MA,01844
+994,281,"Donald P Timony Grammar","Public School",Methuen,MA,01844
+995,281,"Early Childhood Center","Public School",Methuen,MA,01844
+996,281,"Marsh Grammar School","Public School",Methuen,MA,01844
+997,281,"Methuen High","Public School",Methuen,MA,01844
+998,281,"Tenney Grammar School","Public School",Methuen,MA,01844
+999,282,"Henry B. Burkland Elementary School","Public School",Middleborough,MA,02346
+1000,282,"John T. Nichols Middle","Public School",Middleborough,MA,02346
+1001,282,"Mary K. Goode Elementary School","Public School",Middleborough,MA,02346
+1002,282,"Memorial Early Childhood Center","Public School",Middleboro,MA,02346
+1003,282,"Middleborough High","Public School",Middleborough,MA,02346
+1004,284,"Fuller Meadow","Public School",Middleton,MA,01949
+1005,284,Howe-Manning,"Public School",Middleton,MA,01949
+1006,285,Brookside,"Public School",Milford,MA,01757
+1007,285,Memorial,"Public School",Milford,MA,01757
+1008,285,"Milford High","Public School",Milford,MA,01757
+1009,285,"Shining Star Early Childhood Center","Public School",Milford,MA,01757
+1010,285,"Stacy Middle","Public School",Milford,MA,01757
+1011,285,Woodland,"Public School",Milford,MA,01757
+1012,286,"Elmwood Street","Public School",Millbury,MA,01527
+1013,286,"Millbury Junior/Senior High","Public School",Millbury,MA,01527
+1014,286,"Raymond E. Shaw Elementary","Public School",Millbury,MA,01527
+1015,287,"Clyde F Brown","Public School",Millis,MA,02054
+1016,287,"Millis High School","Public School",Millis,MA,02054
+1017,287,"Millis Middle","Public School",Millis,MA,02054
+1018,287,TIES,"Public School",Millis,MA,02054
+1019,289,"Charles S Pierce Middle","Public School",Milton,MA,02186
+1020,289,Collicot,"Public School",Milton,MA,02186
+1021,289,"Cunningham School","Public School",Milton,MA,02186
+1022,289,Glover,"Public School",Milton,MA,02186
+1023,289,"Milton High","Public School",Milton,MA,02186
+1024,289,Tucker,"Public School",Milton,MA,02186
+1025,290,"Minuteman Regional High","Public School",Lexington,MA,02421
+1026,291,"Buckland-Shelburne Regional","Public School","Shelburne Falls",MA,01370
+1027,291,"Colrain Central","Public School",Colrain,MA,01340
+1028,291,"Mohawk Trail Regional School","Public School","Shelburne Falls",MA,01370
+1029,291,"Sanderson Academy","Public School",Ashfield,MA,01330
+1030,292,"Chatham Elementary School","Public School",Chatham,MA,02633
+1031,292,"Harwich Elementary School","Public School",Harwich,MA,02645
+1032,292,"Monomoy Regional High School","Public School",Harwich,MA,02645
+1033,292,"Monomoy Regional Middle School","Public School",Chatham,MA,02633
+1034,294,"Granite Valley School","Public School",Monson,MA,01057
+1035,294,"Monson High School","Public School",Monson,MA,01057
+1036,294,"Quarry Hill Community School","Public School",Monson,MA,01057
+1037,295,"Montachusett Regional Vocational Technical","Public School",Fitchburg,MA,01420
+1038,299,"Lanesborough Elementary","Public School",Lanesborough,MA,01237
+1039,299,"Mt Greylock Regional High","Public School",Williamstown,MA,01267
+1040,299,"Williamstown Elementary","Public School",Williamstown,MA,01267
+1041,301,"Mystic Valley Regional Charter School","Charter School",Malden,MA,02148
+1042,302,Johnson,"Public School",Nahant,MA,01908
+1043,303,"Cyrus Peirce","Public School",Nantucket,MA,02554
+1044,303,"Nantucket Elementary","Public School",Nantucket,MA,02554
+1045,303,"Nantucket High","Public School",Nantucket,MA,02554
+1046,303,"Nantucket Intermediate School","Public School",Nantucket,MA,02554
+1047,304,"Narragansett Middle","Public School",Baldwinville,MA,01436
+1048,304,"Narragansett Regional High","Public School",Baldwinville,MA,01436
+1049,304,"Templeton Elementary School","Public School",Templeton,MA,01468
+1050,305,"Center School","Public School",Stow,MA,01775
+1051,305,"Florence Sawyer School","Public School",Bolton,MA,01740
+1052,305,Hale,"Public School",Stow,MA,01775
+1053,305,"Luther Burbank Middle School","Public School",Lancaster,MA,01523
+1054,305,"Mary Rowlandson Elementary","Public School",Lancaster,MA,01523
+1055,305,"Nashoba Regional","Public School",Bolton,MA,01740
+1056,306,"Nashoba Valley Technical High School","Public School",Westford,MA,01886
+1057,307,Bennett-Hemenway,"Public School",Natick,MA,01760
+1058,307,Brown,"Public School",Natick,MA,01760
+1059,307,"J F Kennedy Middle School","Public School",Natick,MA,01760
+1060,307,Johnson,"Public School",Natick,MA,01760
+1061,307,"Lilja Elementary","Public School",Natick,MA,01760
+1062,307,Memorial,"Public School",Natick,MA,01760
+1063,307,"Natick High","Public School",Natick,MA,01760
+1064,307,"Wilson Middle","Public School",Natick,MA,01760
+1065,308,"Nauset Regional High","Public School","North Eastham",MA,02651
+1066,308,"Nauset Regional Middle","Public School",Orleans,MA,02653
+1067,309,Broadmeadow,"Public School",Needham,MA,02492
+1068,309,"High Rock School","Public School",Needham,MA,02492
+1069,309,"John Eliot","Public School",Needham,MA,02494
+1070,309,"Needham High","Public School",Needham,MA,02494
+1071,309,"Newman Elementary","Public School",Needham,MA,02492
+1072,309,"Pollard Middle","Public School",Needham,MA,02492
+1073,309,"Sunita L. Williams Elementary","Public School",Needham,MA,02494
+1074,309,"William Mitchell","Public School",Needham,MA,02492
+1075,310,"Neighborhood House Charter School","Charter School",Dorchester,MA,02122
+1076,312,"Abraham Lincoln","Public School","New Bedford",MA,02745
+1077,312,"Alfred J Gomes","Public School","New Bedford",MA,02740
+1078,312,"Betsey B Winslow","Public School","New Bedford",MA,02740
+1079,312,"Carlos Pacheco","Public School","New Bedford",MA,02746
+1080,312,"Casimir Pulaski","Public School","New Bedford",MA,02745
+1081,312,"Charles S Ashley","Public School","New Bedford",MA,02745
+1082,312,"Elizabeth Carter Brooks","Public School","New Bedford",MA,02740
+1083,312,"Ellen R Hathaway","Public School","New Bedford",MA,02740
+1084,312,"Elwyn G Campbell","Public School","New Bedford",MA,02745
+1085,312,Hayden/McFadden,"Public School","New Bedford",MA,02746
+1086,312,"Irwin M. Jacobs Elementary School","Public School","New Bedford",MA,02744
+1087,312,"James B Congdon","Public School","New Bedford",MA,02740
+1088,312,"Jireh Swift","Public School","New Bedford",MA,02745
+1089,312,"John Avery Parker","Public School","New Bedford",MA,02740
+1090,312,"John B Devalles","Public School","New Bedford",MA,02744
+1091,312,"Keith Middle School","Public School","New Bedford",MA,02740
+1092,312,"New Bedford High","Public School","New Bedford",MA,02740
+1093,312,"Normandin Middle School","Public School","New Bedford",MA,02745
+1094,312,"Renaissance Community Innovation School","Public School","New Bedford",MA,02740
+1095,312,"Roosevelt Middle School","Public School","New Bedford",MA,02744
+1096,312,"Sgt Wm H Carney Academy","Public School","New Bedford",MA,02740
+1097,312,"Thomas R Rodman","Public School","New Bedford",MA,02740
+1098,312,"Trinity Day Academy","Public School","New Bedford",MA,02740
+1099,312,"Whaling City Junior/Senior High School","Public School","New Bedford",MA,02740
+1100,312,"William H Taylor","Public School","New Bedford",MA,02744
+1101,314,"New Heights Charter School of Brockton","Charter School",Brockton,MA,02301
+1102,317,"Swift River","Public School","New Salem",MA,01355
+1103,319,"Edward G. Molin Elementary School","Public School",Newburyport,MA,01950
+1104,319,"Francis T Bresnahan Elementary","Public School",Newburyport,MA,01950
+1105,319,"Newburyport High","Public School",Newburyport,MA,01950
+1106,319,"Rupert A Nock Middle","Public School",Newburyport,MA,01950
+1107,320,"A E Angier","Public School",Waban,MA,02468
+1108,320,"Bigelow Middle","Public School",Newton,MA,02458
+1109,320,Bowen,"Public School","Newton Centre",MA,02459
+1110,320,"C C Burr","Public School",Auburndale,MA,02466
+1111,320,Cabot,"Public School",Newtonville,MA,02460
+1112,320,"Charles E Brown Middle","Public School","Newton Centre",MA,02459
+1113,320,Countryside,"Public School","Newton Highlands",MA,02461
+1114,320,"F A Day Middle","Public School",Newtonville,MA,02460
+1115,320,Franklin,"Public School","West Newton",MA,02465
+1116,320,"Horace Mann","Public School",Newtonville,MA,02460
+1117,320,"John Ward","Public School","Newton Centre",MA,02459
+1118,320,Lincoln-Eliot,"Public School",Newton,MA,02458
+1119,320,Mason-Rice,"Public School","Newton Centre",MA,02459
+1120,320,"Memorial Spaulding","Public School","Newton Centre",MA,02459
+1121,320,"Newton Early Childhood Program","Public School",Newton,MA,02458
+1122,320,"Newton North High","Public School",Newtonville,MA,02460
+1123,320,"Newton South High","Public School","Newton Centre",MA,02459
+1124,320,"Oak Hill Middle","Public School","Newton Centre",MA,02459
+1125,320,Peirce,"Public School","West Newton",MA,02465
+1126,320,Underwood,"Public School","Newton Corner",MA,02458
+1127,320,Williams,"Public School",Auburndale,MA,02466
+1128,320,Zervas,"Public School",Waban,MA,02468
+1129,321,"Freeman-Kennedy School","Public School",Norfolk,MA,02056
+1130,321,"H Olive Day","Public School",Norfolk,MA,02056
+1131,322,"Norfolk County Agricultural","Public School",Walpole,MA,02081
+1132,323,Brayton,"Public School","North Adams",MA,01247
+1133,323,"Colegrove Park Elementary","Public School","North Adams",MA,01247
+1134,323,"Drury High","Public School","North Adams",MA,01247
+1135,323,Greylock,"Public School","North Adams",MA,01247
+1136,324,"Anne Bradstreet Early Childhood Center","Public School","North Andover",MA,01845
+1137,324,"Annie L Sargent School","Public School","North Andover",MA,01845
+1138,324,Atkinson,"Public School","North Andover",MA,01845
+1139,324,Franklin,"Public School","North Andover",MA,01845
+1140,324,Kittredge,"Public School","North Andover",MA,01845
+1141,324,"North Andover High","Public School","North Andover",MA,01845
+1142,324,"North Andover Middle","Public School","North Andover",MA,01845
+1143,324,Thomson,"Public School","North Andover",MA,01845
+1144,325,"Amvet Boulevard","Public School","North Attleborough",MA,02760
+1145,325,Community,"Public School","North Attleborough",MA,02760
+1146,325,Falls,"Public School","North Attleborough",MA,02760
+1147,325,"Joseph W Martin Jr Elementary","Public School","North Attleborough",MA,02760
+1148,325,"North Attleboro High","Public School","North Attleborough",MA,02760
+1149,325,"North Attleborough Early Learning Center","Public School","North Attleborough",MA,02760
+1150,325,"North Attleborough Middle","Public School","North Attleborough",MA,02760
+1151,325,"Roosevelt Avenue","Public School","North Attleborough",MA,02760
+1152,326,"North Brookfield Elementary","Public School","North Brookfield",MA,01535
+1153,326,"North Brookfield High","Public School","North Brookfield",MA,01535
+1154,327,"Ashby Elementary","Public School",Ashby,MA,01431
+1155,327,"Hawthorne Brook","Public School",Townsend,MA,01469
+1156,327,"Nissitissit Middle School","Public School",Pepperell,MA,01463
+1157,327,"North Middlesex Regional","Public School",Townsend,MA,01469
+1158,327,"Spaulding Memorial","Public School",Townsend,MA,01469
+1159,327,"Squannacook Early Childhood Center","Public School",Townsend,MA,01469
+1160,327,"Varnum Brook","Public School",Pepperell,MA,01463
+1161,328,"E Ethel Little School","Public School","North Reading",MA,01864
+1162,328,"J Turner Hood","Public School","North Reading",MA,01864
+1163,328,"L D Batchelder","Public School","North Reading",MA,01864
+1164,328,"North Reading High","Public School","North Reading",MA,01864
+1165,328,"North Reading Middle","Public School","North Reading",MA,01864
+1166,329,"Bridge Street","Public School",Northampton,MA,01060
+1167,329,"Jackson Street","Public School",Northampton,MA,01060
+1168,329,"John F Kennedy Middle School","Public School",Florence,MA,01062
+1169,329,Leeds,"Public School",Leeds,MA,01053
+1170,329,"Northampton High","Public School",Northampton,MA,01060
+1171,329,"R. K. Finn Ryan Road","Public School",Florence,MA,01062
+1172,330,"Smith Vocational and Agricultural High","Public School",Northampton,MA,01060
+1173,331,"Algonquin Regional High","Public School",Northborough,MA,01532
+1174,332,"Fannie E Proctor","Public School",Northborough,MA,01532
+1175,332,"Lincoln Street","Public School",Northborough,MA,01532
+1176,332,"Marguerite E Peaslee","Public School",Northborough,MA,01532
+1177,332,"Marion E Zeh","Public School",Northborough,MA,01532
+1178,332,"Robert E. Melican Middle School","Public School",Northborough,MA,01532
+1179,333,"Northbridge Elementary School","Public School",Whitinsville,MA,01588
+1180,333,"Northbridge High","Public School",Whitinsville,MA,01588
+1181,333,"Northbridge Middle","Public School",Whitinsville,MA,01588
+1182,334,"Northeast Metro Regional Vocational","Public School",Wakefield,MA,01880
+1183,335,"Charles McCann Vocational Technical","Public School","North Adams",MA,01247
+1184,337,"Henri A. Yelle","Public School",Norton,MA,02766
+1185,337,"J C Solmonese","Public School",Norton,MA,02766
+1186,337,"L G Nourse Elementary","Public School",Norton,MA,02766
+1187,337,"Norton High","Public School",Norton,MA,02766
+1188,337,"Norton Middle","Public School",Norton,MA,02766
+1189,338,"Grace Farrar Cole","Public School",Norwell,MA,02061
+1190,338,"Norwell High","Public School",Norwell,MA,02061
+1191,338,"Norwell Middle School","Public School",Norwell,MA,02061
+1192,338,"William G Vinal","Public School",Norwell,MA,02061
+1193,339,Balch,"Public School",Norwood,MA,02062
+1194,339,"Charles J Prescott","Public School",Norwood,MA,02062
+1195,339,"Cornelius M Callahan","Public School",Norwood,MA,02062
+1196,339,"Dr. Philip O. Coakley Middle School","Public School",Norwood,MA,02062
+1197,339,"F A Cleveland","Public School",Norwood,MA,02062
+1198,339,"George F. Willett","Public School",Norwood,MA,02062
+1199,339,"John P Oldham","Public School",Norwood,MA,02062
+1200,339,"Norwood High","Public School",Norwood,MA,02062
+1201,340,"Oak Bluffs Elementary","Public School","Oak Bluffs",MA,02557
+1202,342,"Old Colony Regional Vocational Technical","Public School",Rochester,MA,02770
+1203,343,"Old Rochester Regional High","Public School",Mattapoisett,MA,02739
+1204,343,"Old Rochester Regional Jr High","Public School",Mattapoisett,MA,02739
+1205,344,"Old Sturbridge Academy Charter Public School","Charter School",Sturbridge,MA,01566
+1206,345,"Dexter Park","Public School",Orange,MA,01364
+1207,345,"Fisher Hill","Public School",Orange,MA,01364
+1208,346,"Orleans Elementary","Public School",Orleans,MA,02653
+1209,348,"Alfred M Chaffee","Public School",Oxford,MA,01540
+1210,348,"Clara Barton","Public School",Oxford,MA,01540
+1211,348,"Oxford High","Public School",Oxford,MA,01540
+1212,348,"Oxford Middle","Public School",Oxford,MA,01540
+1213,349,"Old Mill Pond","Public School",Palmer,MA,01069
+1214,349,"Palmer High","Public School",Palmer,MA,01069
+1215,350,"Pathfinder Vocational Technical","Public School",Palmer,MA,01069
+1216,351,"Paulo Freire Social Justice Charter School","Charter School",Chicopee,MA,01013
+1217,353,"Captain Samuel Brown","Public School",Peabody,MA,01960
+1218,353,Center,"Public School",Peabody,MA,01960
+1219,353,"J Henry Higgins Middle","Public School",Peabody,MA,01960
+1220,353,"John E Burke","Public School",Peabody,MA,01960
+1221,353,"John E. McCarthy","Public School",Peabody,MA,01960
+1222,353,"Peabody Personalized Remote Education Program (Peabody P.R.E.P.)","Public School",Peabody,MA,01960
+1223,353,"Peabody Veterans Memorial High","Public School",Peabody,MA,01960
+1224,353,"South Memorial","Public School",Peabody,MA,01960
+1225,353,"Thomas Carroll","Public School",Peabody,MA,01960
+1226,353,"West Memorial","Public School",Peabody,MA,01960
+1227,353,"William A Welch Sr","Public School",Peabody,MA,01960
+1228,354,"Pelham Elementary","Public School",Pelham,MA,01002
+1229,355,"Bryantville Elementary","Public School",Pembroke,MA,02359
+1230,355,"Hobomock Elementary","Public School",Pembroke,MA,02359
+1231,355,"North Pembroke Elementary","Public School",Pembroke,MA,02359
+1232,355,"Pembroke Community Middle School","Public School",Pembroke,MA,02359
+1233,355,"Pembroke High School","Public School",Pembroke,MA,02359
+1234,356,"Dr Frederick N Sweetsir","Public School",Merrimac,MA,01860
+1235,356,"Dr John C Page School","Public School","West Newbury",MA,01985
+1236,356,"Elmer S Bagnall","Public School",Groveland,MA,01834
+1237,356,"Helen R Donaghue School","Public School",Merrimac,MA,01860
+1238,356,"Pentucket Regional Middle","Public School","West Newbury",MA,01985
+1239,356,"Pentucket Regional Sr High","Public School","West Newbury",MA,01985
+1240,359,"Petersham Center","Public School",Petersham,MA,01366
+1241,361,"Phoenix Academy Charter Public High School, Chelsea","Charter School",Chelsea,MA,02150
+1242,362,"Phoenix Academy Public Charter High School, Lawrence","Charter School",Lawrence,MA,01840
+1243,363,"Phoenix Academy Public Charter High School, Springfield","Charter School",Springfield,MA,01105
+1244,364,"Pioneer Charter School of Science","Charter School",Everett,MA,01249
+1245,365,"Pioneer Charter School of Science II","Charter School",Saugus,MA,01906
+1246,366,"Bernardston Elementary","Public School",Bernardston,MA,01337
+1247,366,"Northfield Elementary","Public School",Northfield,MA,01360
+1248,366,"Pioneer Valley Regional","Public School",Northfield,MA,01360
+1249,367,"Pioneer Valley Chinese Immersion Charter School","Charter School",Hadley,MA,01035
+1250,368,"Pioneer Valley Performing Arts Charter Public School","Charter School","South Hadley",MA,01075
+1251,369,Allendale,"Public School",Pittsfield,MA,01201
+1252,369,Crosby,"Public School",Pittsfield,MA,01201
+1253,369,"Crosby Educational Academy","Public School",Pittsfield,MA,01201
+1254,369,"Eagle Education Academy","Public School",Pittsfield,MA,01201
+1255,369,Egremont,"Public School",Pittsfield,MA,01201
+1256,369,"John T Reid Middle","Public School",Pittsfield,MA,01201
+1257,369,"Morningside Community School","Public School",Pittsfield,MA,01201
+1258,369,"Pittsfield High","Public School",Pittsfield,MA,01201
+1259,369,"Pittsfield Public Virtual Academy","Public School",Pittsfield,MA,01202
+1260,369,"Robert T. Capeless Elementary School","Public School",Pittsfield,MA,01867
+1261,369,"Silvio O Conte Community","Public School",Pittsfield,MA,01201
+1262,369,Stearns,"Public School",Pittsfield,MA,01201
+1263,369,"Taconic High","Public School",Pittsfield,MA,01201
+1264,369,"Theodore Herberg Middle","Public School",Pittsfield,MA,01201
+1265,369,Williams,"Public School",Pittsfield,MA,01201
+1266,371,"Anna Ware Jackson","Public School",Plainville,MA,02762
+1267,371,"Beatrice H Wood Elementary","Public School",Plainville,MA,02762
+1268,372,"Cold Spring","Public School",Plymouth,MA,02360
+1269,372,"Federal Furnace School","Public School",Plymouth,MA,02360
+1270,372,Hedge,"Public School",Plymouth,MA,02360
+1271,372,"Indian Brook","Public School",Plymouth,MA,02360
+1272,372,"Manomet Elementary","Public School",Plymouth,MA,02360
+1273,372,"Nathaniel Morton Elementary","Public School",Plymouth,MA,02360
+1274,372,"Plymouth Commun Intermediate","Public School",Plymouth,MA,02360
+1275,372,"Plymouth Early Childhood Center","Public School",Plymouth,MA,02360
+1276,372,"Plymouth North High","Public School",Plymouth,MA,02360
+1277,372,"Plymouth South High","Public School",Plymouth,MA,02360
+1278,372,"Plymouth South Middle","Public School",Plymouth,MA,02360
+1279,372,"South Elementary","Public School",Plymouth,MA,02360
+1280,372,"West Elementary","Public School",Plymouth,MA,02360
+1281,373,"Dennett Elementary","Public School",Plympton,MA,02367
+1282,375,"Prospect Hill Academy Charter School","Charter School",Cambridge,MA,02139
+1283,376,"Provincetown Schools","Public School",Provincetown,MA,02657
+1284,377,"Hardwick Elementary","Public School",Gilbertville,MA,01031
+1285,377,"Hubbardston Center","Public School",Hubbardston,MA,01452
+1286,377,"New Braintree Grade","Public School","New Braintree",MA,01531
+1287,377,"Oakham Center","Public School",Oakham,MA,01068
+1288,377,"Quabbin Regional High School","Public School",Barre,MA,01005
+1289,377,"Quabbin Regional Middle School","Public School",Barre,MA,01005
+1290,377,"Ruggles Lane","Public School",Barre,MA,01005
+1291,378,"Quaboag Integrated Preschool","Public School",Warren,MA,01083
+1292,378,"Quaboag Regional High","Public School",Warren,MA,01083
+1293,378,"Quaboag Regional Middle Innovation School","Public School",Warren,MA,01083
+1294,378,"Warren Elementary","Public School","West Warren",MA,01092
+1295,378,"West Brookfield Elementary","Public School","West Brookfield",MA,01585
+1296,379,"Amelio Della Chiesa Early Childhood Center","Public School",Quincy,MA,02169
+1297,379,"Atherton Hough","Public School",Quincy,MA,02169
+1298,379,"Atlantic Middle","Public School",Quincy,MA,02171
+1299,379,"Beechwood Knoll Elementary","Public School",Quincy,MA,02170
+1300,379,"Broad Meadows Middle","Public School",Quincy,MA,02169
+1301,379,"Central Middle","Public School",Quincy,MA,02170
+1302,379,"Charles A Bernazzani Elementary","Public School",Quincy,MA,02169
+1303,379,"Clifford H Marshall Elementary","Public School",Quincy,MA,02169
+1304,379,"Francis W Parker","Public School",Quincy,MA,02171
+1305,379,"Lincoln-Hancock Community School","Public School",Quincy,MA,02169
+1306,379,Merrymount,"Public School",Quincy,MA,02169
+1307,379,Montclair,"Public School",Quincy,MA,02171
+1308,379,"North Quincy High","Public School",Quincy,MA,02171
+1309,379,"Point Webster Middle","Public School",Quincy,MA,02169
+1310,379,"Quincy High","Public School",Quincy,MA,02169
+1311,379,"Snug Harbor Community School","Public School",Quincy,MA,02169
+1312,379,"South West Middle School","Public School",Quincy,MA,02169
+1313,379,Squantum,"Public School",Quincy,MA,02171
+1314,379,"Wollaston School","Public School",Quincy,MA,02170
+1315,380,"Ralph C Mahar Regional","Public School",Orange,MA,01364
+1316,381,"Elizabeth G Lyons Elementary","Public School",Randolph,MA,02368
+1317,381,"J F Kennedy Elementary","Public School",Randolph,MA,02368
+1318,381,"Margaret L Donovan","Public School",Randolph,MA,02368
+1319,381,"Martin E Young Elementary","Public School",Randolph,MA,02368
+1320,381,"Randolph Community Middle","Public School",Randolph,MA,02368
+1321,381,"Randolph High","Public School",Randolph,MA,02368
+1322,383,"Alice M Barrows","Public School",Reading,MA,01867
+1323,383,"Arthur W Coolidge Middle","Public School",Reading,MA,01867
+1324,383,"Birch Meadow","Public School",Reading,MA,01867
+1325,383,"J Warren Killam","Public School",Reading,MA,01867
+1326,383,"Joshua Eaton","Public School",Reading,MA,01867
+1327,383,"RISE PreSchool","Public School",Reading,MA,01867
+1328,383,"Reading Memorial High","Public School",Reading,MA,01867
+1329,383,"Walter S Parker Middle","Public School",Reading,MA,01867
+1330,383,"Wood End Elementary School","Public School",Reading,MA,01867
+1331,385,"A. C. Whelan Elementary School","Public School",Revere,MA,02151
+1332,385,"Abraham Lincoln","Public School",Revere,MA,02151
+1333,385,"Beachmont Veterans Memorial School","Public School",Revere,MA,02151
+1334,385,"CityLab Innovation High School","Public School",Revere,MA,02151
+1335,385,"Garfield Elementary School","Public School",Revere,MA,02151
+1336,385,"Garfield Middle School","Public School",Revere,MA,02151
+1337,385,"Paul Revere","Public School",Revere,MA,02151
+1338,385,"Revere High","Public School",Revere,MA,02151
+1339,385,"Rumney Marsh Academy","Public School",Revere,MA,02151
+1340,385,"Staff Sargent James J. Hill Elementary School","Public School",Revere,MA,02151
+1341,385,"Susan B. Anthony Middle School","Public School",Revere,MA,02151
+1342,386,"Richmond Consolidated","Public School",Richmond,MA,01254
+1343,387,"Rising Tide Charter Public School","Charter School",Plymouth,MA,02360
+1344,388,"River Valley Charter School","Charter School",Newburyport,MA,01950
+1345,389,"Rochester Memorial","Public School",Rochester,MA,02770
+1346,390,"Jefferson Elementary School","Public School",Rockland,MA,02370
+1347,390,"John W Rogers Middle","Public School",Rockland,MA,02370
+1348,390,"Memorial Park","Public School",Rockland,MA,02370
+1349,390,"R Stewart Esten","Public School",Rockland,MA,02370
+1350,390,"Rockland Senior High","Public School",Rockland,MA,02370
+1351,391,"Rockport Elementary","Public School",Rockport,MA,01966
+1352,391,"Rockport High","Public School",Rockport,MA,01966
+1353,391,"Rockport Middle","Public School",Rockport,MA,01966
+1354,392,"Rowe Elementary","Public School",Rowe,MA,01367
+1355,394,"Roxbury Preparatory Charter School","Charter School",Roxbury,MA,02120
+1356,398,Bates,"Public School",Salem,MA,01970
+1357,398,"Bentley Academy Innovation School","Public School",Salem,MA,01970
+1358,398,Carlton,"Public School",Salem,MA,01970
+1359,398,"Collins Middle","Public School",Salem,MA,01970
+1360,398,"Horace Mann Laboratory","Public School",Salem,MA,01970
+1361,398,"New Liberty Innovation School","Public School",Salem,MA,01970
+1362,398,"Salem Early Childhood","Public School",Salem,MA,01970
+1363,398,"Salem High","Public School",Salem,MA,01970
+1364,398,"Salem Prep High School","Public School",Salem,MA,01970
+1365,398,"Saltonstall School","Public School",Salem,MA,01970
+1366,398,"Witchcraft Heights","Public School",Salem,MA,01970
+1367,399,"Salem Academy Charter School","Charter School",Salem,MA,01970
+1368,402,"Forestdale School","Public School",Sandwich,MA,02644
+1369,402,"Oak Ridge","Public School","East Sandwich",MA,02537
+1370,402,"Sandwich Middle High School","Public School","East Sandwich",MA,02537
+1371,403,"Belmonte STEAM Academy","Public School",Saugus,MA,01906
+1372,403,"Saugus High","Public School",Saugus,MA,01906
+1373,403,"Saugus Middle School","Public School",Saugus,MA,01906
+1374,403,"Veterans Early Learning Center","Public School",Saugus,MA,01906
+1375,404,"Emma L Miller Elementary School","Public School",Savoy,MA,01256
+1376,405,"Cushing Elementary","Public School",Scituate,MA,02066
+1377,405,"Gates Middle School","Public School",Scituate,MA,02066
+1378,405,"Hatherly Elementary","Public School",Scituate,MA,02066
+1379,405,"Jenkins Elementary School","Public School",Scituate,MA,02066
+1380,405,"Scituate High School","Public School",Scituate,MA,02066
+1381,405,"Wampatuck Elementary","Public School",Scituate,MA,02066
+1382,406,"Dr. Kevin M. Hurley Middle School","Public School",Seekonk,MA,02771
+1383,406,"George R Martin","Public School",Seekonk,MA,02771
+1384,406,"Mildred Aitken School","Public School",Seekonk,MA,02771
+1385,406,"Seekonk High","Public School",Seekonk,MA,02771
+1386,406,"Seekonk Transitions Academy","Public School",Seekonk,MA,02771
+1387,407,"Cottage Street","Public School",Sharon,MA,02067
+1388,407,"East Elementary","Public School",Sharon,MA,02067
+1389,407,"Heights Elementary","Public School",Sharon,MA,02067
+1390,407,"Sharon Early Childhood Center","Public School",Sharon,MA,02067
+1391,407,"Sharon High","Public School",Sharon,MA,02067
+1392,407,"Sharon Middle","Public School",Sharon,MA,02067
+1393,408,"Shawsheen Valley Vocational Technical High School","Public School",Billerica,MA,01821
+1394,411,"Pine Hill","Public School",Sherborn,MA,01770
+1395,413,"Calvin Coolidge School","Public School",Shrewsbury,MA,01545
+1396,413,"Floral Street School","Public School",Shrewsbury,MA,01545
+1397,413,"Major Howard W. Beal School","Public School",Shrewsbury,MA,01545
+1398,413,"Oak Middle School","Public School",Shrewsbury,MA,01545
+1399,413,"Parker Road Preschool","Public School",Shrewsbury,MA,01545
+1400,413,"Sherwood Middle School","Public School",Shrewsbury,MA,01545
+1401,413,"Shrewsbury High School","Public School",Shrewsbury,MA,01545
+1402,413,"Spring Street School","Public School",Shrewsbury,MA,01545
+1403,413,"Walter J. Paton School","Public School",Shrewsbury,MA,01545
+1404,414,"Shutesbury Elementary","Public School",Shutesbury,MA,01072
+1405,415,"Silver Lake Regional High","Public School",Kingston,MA,02364
+1406,415,"Silver Lake Regional Middle School","Public School",Kingston,MA,02364
+1407,416,"Sizer School: A North Central Charter Essential School","Charter School",Fitchburg,MA,01420
+1408,417,"Chace Street","Public School",Somerset,MA,02726
+1409,417,"North Elementary","Public School",Somerset,MA,02726
+1410,417,"Somerset Middle School","Public School",Somerset,MA,02726
+1411,417,South,"Public School",Somerset,MA,02726
+1412,418,"Somerset Berkley Regional High School","Public School",Somerset,MA,02726
+1413,419,"Albert F. Argenziano School at Lincoln Park","Public School",Somerville,MA,02143
+1414,419,"Arthur D Healey","Public School",Somerville,MA,02145
+1415,419,"Benjamin G Brown","Public School",Somerville,MA,02144
+1416,419,"Capuano Early Childhood Center","Public School",Somerville,MA,02145
+1417,419,"E Somerville Community","Public School",Somerville,MA,02145
+1418,419,"Full Circle High School","Public School",Somerville,MA,02143
+1419,419,"John F Kennedy","Public School",Somerville,MA,02144
+1420,419,"Next Wave Junior High","Public School",Somerville,MA,02143
+1421,419,"Somerville High","Public School",Somerville,MA,02143
+1422,419,"West Somerville Neighborhood","Public School",Somerville,MA,02144
+1423,419,"Winter Hill Community","Public School",Somerville,MA,02143
+1424,420,"Michael E. Smith Middle School","Public School","South Hadley",MA,01075
+1425,420,Mosier,"Public School","South Hadley",MA,01075
+1426,420,"Plains Elementary","Public School","South Hadley",MA,01075
+1427,420,"South Hadley High","Public School","South Hadley",MA,01075
+1428,421,"Joseph P Keefe Technical High School","Public School",Framingham,MA,01702
+1429,422,"South Shore Charter Public School","Charter School",Norwell,MA,02061
+1430,423,"South Shore Vocational Technical High","Public School",Hanover,MA,02339
+1431,424,"William E Norris","Public School",Southampton,MA,01073
+1432,425,"Albert S. Woodward Memorial School","Public School",Southborough,MA,01772
+1433,425,"Margaret A Neary","Public School",Southborough,MA,01772
+1434,425,"Mary E Finn School","Public School",Southborough,MA,01772
+1435,425,"P Brent Trottier","Public School",Southborough,MA,01772
+1436,426,"Charlton Street","Public School",Southbridge,MA,01550
+1437,426,"Eastford Road","Public School",Southbridge,MA,01550
+1438,426,"Southbridge Academy","Public School",Southbridge,MA,01550
+1439,426,"Southbridge High School","Public School",Southbridge,MA,01550
+1440,426,"Southbridge Middle School","Public School",Southbridge,MA,01550
+1441,426,"West Street","Public School",Southbridge,MA,01550
+1442,427,"Southeastern Regional Vocational Technical","Public School","South Easton",MA,02375
+1443,428,"Mt Everett Regional","Public School",Sheffield,MA,01257
+1444,428,"New Marlborough Central","Public School",Sheffield,MA,01257
+1445,428,"South Egremont","Public School",Sheffield,MA,01257
+1446,428,Undermountain,"Public School",Sheffield,MA,01257
+1447,429,"Bay Path Regional Vocational Technical High School","Public School",Charlton,MA,01507
+1448,432,"Powder Mill School","Public School",Southwick,MA,01077
+1449,432,"Southwick Regional School","Public School",Southwick,MA,01077
+1450,432,"Woodland School","Public School",Southwick,MA,01077
+1451,434,"David Prouty High","Public School",Spencer,MA,01562
+1452,434,"East Brookfield Elementary","Public School","East Brookfield",MA,01515
+1453,434,"Knox Trail Middle School","Public School",Spencer,MA,01562
+1454,434,"Wire Village School","Public School",Spencer,MA,01562
+1455,435,"Alfred G. Zanetti Montessori Magnet School","Public School",Springfield,MA,01104
+1456,435,"Alice B Beal Elementary","Public School",Springfield,MA,01108
+1457,435,"Arthur T Talmadge","Public School",Springfield,MA,01118
+1458,435,"Balliet Preschool","Public School",Springfield,MA,01109
+1459,435,Brightwood,"Public School",Springfield,MA,01107
+1460,435,"Chestnut Accelerated Middle School (Talented and Gifted)","Public School",Springfield,MA,01107
+1461,435,"Conservatory of the Arts","Public School",Springfield,MA,01105
+1462,435,"Daniel B Brunton","Public School",Springfield,MA,01128
+1463,435,"Early Childhood Education Center","Public School",Springfield,MA,01109
+1464,435,"Edward P. Boland School","Public School",Springfield,MA,01104
+1465,435,"Elias Brookings","Public School",Springfield,MA,01105
+1466,435,"Emergence Academy","Public School",Springfield,MA,01104
+1467,435,"Forest Park Middle","Public School",Springfield,MA,01108
+1468,435,"Frank H Freedman","Public School",Springfield,MA,01109
+1469,435,"Frederick Harris","Public School",Springfield,MA,01118
+1470,435,"Gateway to College at Holyoke Community College","Public School",Holyoke,MA,01040
+1471,435,"Gateway to College at Springfield Technical Community College","Public School",Springfield,MA,01102
+1472,435,"German Gerena Community School","Public School",Springfield,MA,01107
+1473,435,Glenwood,"Public School",Springfield,MA,01104
+1474,435,"Glickman Elementary","Public School",Springfield,MA,01119
+1475,435,"High School Of Commerce","Public School",Springfield,MA,01105
+1476,435,"Hiram L Dorman","Public School",Springfield,MA,01109
+1477,435,"Homer Street","Public School",Springfield,MA,01109
+1478,435,"Impact Prep at Chestnut","Public School",Springfield,MA,01107
+1479,435,"Indian Orchard Elementary","Public School","Indian Orchard",MA,01151
+1480,435,"John F Kennedy Middle","Public School",Springfield,MA,01151
+1481,435,"John J Duggan Academy","Public School",Springfield,MA,01109
+1482,435,"Kensington International School","Public School",Springfield,MA,01108
+1483,435,"Kiley Academy","Public School",Springfield,MA,01128
+1484,435,"Kiley Prep","Public School",Springfield,MA,01128
+1485,435,Liberty,"Public School",Springfield,MA,01104
+1486,435,"Liberty Preparatory Academy","Public School",Springfield,MA,01108
+1487,435,Lincoln,"Public School",Springfield,MA,01107
+1488,435,"Margaret C Ells","Public School",Springfield,MA,01109
+1489,435,"Mary A. Dryden Veterans Memorial School","Public School",Springfield,MA,01118
+1490,435,"Mary M Lynch","Public School",Springfield,MA,01119
+1491,435,"Mary M Walsh","Public School",Springfield,MA,01129
+1492,435,"Mary O Pottenger","Public School",Springfield,MA,01104
+1493,435,"Milton Bradley School","Public School",Springfield,MA,01105
+1494,435,"Rebecca M Johnson","Public School",Springfield,MA,01109
+1495,435,"Rise Academy at Van Sickle","Public School",Springfield,MA,01104
+1496,435,"Roger L. Putnam Vocational Technical Academy","Public School",Springfield,MA,01109
+1497,435,"STEM Middle Academy","Public School",Springfield,MA,01109
+1498,435,"Samuel Bowles","Public School",Springfield,MA,01104
+1499,435,"South End Middle School","Public School",Springfield,MA,01105
+1500,435,"Springfield Central High","Public School",Springfield,MA,01109
+1501,435,"Springfield High School","Public School",Springfield,MA,01108
+1502,435,"Springfield High School of Science and Technology","Public School",Springfield,MA,01109
+1503,435,"Springfield International Academy at Johnson","Public School",Springfield,MA,01109
+1504,435,"Springfield International Academy at Sci-Tech","Public School",Springfield,MA,01109
+1505,435,"Springfield Legacy Academy","Public School",Springfield,MA,01107
+1506,435,"Springfield Middle School","Public School",Springfield,MA,01109
+1507,435,"Springfield Public Day Elementary School","Public School",Springfield,MA,01104
+1508,435,"Springfield Public Day High School","Public School",Springfield,MA,01151
+1509,435,"Springfield Public Day Middle School","Public School",Springfield,MA,01107
+1510,435,"Springfield Realization Academy","Public School",Springfield,MA,01108
+1511,435,"Springfield Transition Academy","Public School",Springfield,MA,01109
+1512,435,"Sumner Avenue","Public School",Springfield,MA,01108
+1513,435,"The Springfield Renaissance School an Expeditionary Learning School","Public School",Springfield,MA,01104
+1514,435,"The Springfield Virtual School","Public School",Springfield,MA,01103
+1515,435,"Thomas M Balliet","Public School",Springfield,MA,01109
+1516,435,"Van Sickle Academy","Public School",Springfield,MA,01104
+1517,435,Warner,"Public School",Springfield,MA,01129
+1518,435,Washington,"Public School",Springfield,MA,01108
+1519,435,"White Street","Public School",Springfield,MA,01108
+1520,435,"William N. DeBerry","Public School",Springfield,MA,01109
+1521,436,"Springfield International Charter School","Charter School",Springfield,MA,01129
+1522,437,"Springfield Preparatory Charter School","Charter School",Springfield,MA,01104
+1523,440,"Colonial Park","Public School",Stoneham,MA,02180
+1524,440,"Robin Hood","Public School",Stoneham,MA,02180
+1525,440,South,"Public School",Stoneham,MA,02180
+1526,440,"Stoneham Central Middle School","Public School",Stoneham,MA,02180
+1527,440,"Stoneham High","Public School",Stoneham,MA,02180
+1528,441,"Edwin A Jones Early Childhood Center","Public School",Stoughton,MA,02072
+1529,441,"Helen Hansen Elementary","Public School",Stoughton,MA,02072
+1530,441,"Joseph H Gibbons","Public School",Stoughton,MA,02072
+1531,441,"Joseph R Dawe Jr Elementary","Public School",Stoughton,MA,02072
+1532,441,"O'Donnell Middle School","Public School",Stoughton,MA,02072
+1533,441,"Richard L. Wilkins Elementary School","Public School",Stoughton,MA,02072
+1534,441,"South Elementary","Public School",Stoughton,MA,02072
+1535,441,"Stoughton High","Public School",Stoughton,MA,02072
+1536,443,"Burgess Elementary","Public School",Sturbridge,MA,01566
+1537,444,"Sturgis Charter Public School","Charter School",Hyannis,MA,02601
+1538,445,"Ephraim Curtis Middle","Public School",Sudbury,MA,01776
+1539,445,"General John Nixon Elementary","Public School",Sudbury,MA,01776
+1540,445,"Israel Loring School","Public School",Sudbury,MA,01776
+1541,445,"Josiah Haynes","Public School",Sudbury,MA,01776
+1542,445,"Peter Noyes","Public School",Sudbury,MA,01776
+1543,446,"Sunderland Elementary","Public School",Sunderland,MA,01375
+1544,447,"Sutton Early Learning","Public School",Sutton,MA,01590
+1545,447,"Sutton Elementary","Public School",Sutton,MA,01590
+1546,447,"Sutton High School","Public School",Sutton,MA,01590
+1547,447,"Sutton Middle School","Public School",Sutton,MA,01590
+1548,448,Clarke,"Public School",Swampscott,MA,01907
+1549,448,Hadley,"Public School",Swampscott,MA,01907
+1550,448,Stanley,"Public School",Swampscott,MA,01907
+1551,448,"Swampscott High","Public School",Swampscott,MA,01907
+1552,448,"Swampscott Middle","Public School",Swampscott,MA,01907
+1553,449,"Elizabeth S Brown","Public School",Swansea,MA,02777
+1554,449,Gardner,"Public School",Swansea,MA,02777
+1555,449,"Joseph Case High","Public School",Swansea,MA,02777
+1556,449,"Joseph Case Jr High","Public School",Swansea,MA,02777
+1557,449,"Joseph G Luther","Public School",Swansea,MA,02777
+1558,449,"Mark G Hoyle Elementary","Public School",Swansea,MA,02777
+1559,450,"TEC Connections Academy Commonwealth Virtual School","Public School","East Walpole",MA,02032
+1560,451,"Tantasqua Regional Jr High","Public School",Fiskdale,MA,01518
+1561,451,"Tantasqua Regional Sr High","Public School",Fiskdale,MA,01518
+1562,451,"Tantasqua Regional Vocational","Public School",Fiskdale,MA,01518
+1563,452,"Benjamin Friedman Middle","Public School",Taunton,MA,02780
+1564,452,"East Taunton Elementary","Public School","East Taunton",MA,02718
+1565,452,"Edmund Hatch Bennett","Public School",Taunton,MA,02780
+1566,452,"Edward F. Leddy Preschool","Public School",Taunton,MA,02780
+1567,452,"Elizabeth Pole","Public School",Taunton,MA,02780
+1568,452,"H H Galligan","Public School",Taunton,MA,02780
+1569,452,"James L. Mulcahey Elementary School","Public School",Taunton,MA,02780
+1570,452,"John F Parker Middle","Public School",Taunton,MA,02780
+1571,452,"Joseph C Chamberlain","Public School",Taunton,MA,02780
+1572,452,"Joseph H Martin","Public School","East Taunton",MA,02718
+1573,452,"Taunton Alternative High School","Public School",Taunton,MA,02780
+1574,452,"Taunton High","Public School",Taunton,MA,02780
+1575,454,"Center Elementary School","Public School",Tewksbury,MA,01876
+1576,454,Heath-Brook,"Public School",Tewksbury,MA,01876
+1577,454,"John F. Ryan","Public School",Tewksbury,MA,01876
+1578,454,"John W. Wynn Middle","Public School",Tewksbury,MA,01876
+1579,454,"L F Dewing","Public School",Tewksbury,MA,01876
+1580,454,"Tewksbury Memorial High","Public School",Tewksbury,MA,01876
+1581,455,"Tisbury Elementary","Public School","Vineyard Haven",MA,02568
+1582,457,"Proctor Elementary","Public School",Topsfield,MA,01983
+1583,457,"Steward Elementary","Public School",Topsfield,MA,01983
+1584,459,"Tri-County Regional Vocational Technical","Public School",Franklin,MA,02038
+1585,460,"Newbury Elementary","Public School",Newbury,MA,01951
+1586,460,"Pine Grove","Public School",Rowley,MA,01969
+1587,460,"Salisbury Elementary","Public School",Salisbury,MA,01952
+1588,460,"Triton Regional High School","Public School",Byfield,MA,01922
+1589,460,"Triton Regional Middle School","Public School",Byfield,MA,01922
+1590,461,"Truro Central","Public School",Truro,MA,02666
+1591,462,"Tyngsborough Elementary","Public School",Tyngsborough,MA,01879
+1592,462,"Tyngsborough High School","Public School",Tyngsborough,MA,01879
+1593,462,"Tyngsborough Middle","Public School",Tyngsborough,MA,01879
+1594,464,"UP Academy Charter School of Boston","Charter School","South Boston",MA,02127
+1595,465,"UP Academy Charter School of Dorchester","Charter School",Boston,MA,02124
+1596,466,"Chilmark Elementary","Public School",Chilmark,MA,02535
+1597,466,"West Tisbury Elementary","Public School","West Tisbury",MA,02575
+1598,467,"Upper Cape Cod Vocational Technical","Public School",Bourne,MA,02532
+1599,469,"Gateway to College","Public School",Uxbridge,MA,01569
+1600,469,"Taft Early Learning Center","Public School",Uxbridge,MA,01569
+1601,469,"Uxbridge High","Public School",Uxbridge,MA,01569
+1602,469,"Whitin Intermediate","Public School",Uxbridge,MA,01569
+1603,470,"Veritas Preparatory Charter School","Charter School",Springfield,MA,01105
+1604,471,"Central Tree Middle","Public School",Rutland,MA,01543
+1605,471,"Chocksett Middle School","Public School",Sterling,MA,01564
+1606,471,"Davis Hill Elementary","Public School",Holden,MA,01520
+1607,471,Dawson,"Public School",Holden,MA,01520
+1608,471,"Early Childhood Center","Public School",Jefferson,MA,01522
+1609,471,"Glenwood Elementary School","Public School",Rutland,MA,01543
+1610,471,"Houghton Elementary","Public School",Sterling,MA,01564
+1611,471,"Leroy E.Mayo","Public School",Holden,MA,01520
+1612,471,"Mountview Middle","Public School",Holden,MA,01520
+1613,471,"Naquag Elementary School","Public School",Rutland,MA,01543
+1614,471,"Paxton Center","Public School",Paxton,MA,01612
+1615,471,"Thomas Prince","Public School",Princeton,MA,01541
+1616,471,"Wachusett Regional High","Public School",Holden,MA,01520
+1617,472,Dolbeare,"Public School",Wakefield,MA,01880
+1618,472,"Early Childhood Center at the Doyle School","Public School",Wakefield,MA,01880
+1619,472,"Galvin Middle School","Public School",Wakefield,MA,01880
+1620,472,Greenwood,"Public School",Wakefield,MA,01880
+1621,472,"Wakefield Memorial High","Public School",Wakefield,MA,01880
+1622,472,Walton,"Public School",Wakefield,MA,01880
+1623,472,"Woodville School","Public School",Wakefield,MA,01880
+1624,473,"Wales Elementary","Public School",Wales,MA,01081
+1625,474,"Bird Middle","Public School","East Walpole",MA,02032
+1626,474,Boyden,"Public School",Walpole,MA,02081
+1627,474,"Daniel Feeney Preschool Center","Public School",Walpole,MA,02081
+1628,474,"Eleanor N Johnson Middle","Public School",Walpole,MA,02081
+1629,474,"Elm Street School","Public School",Walpole,MA,02081
+1630,474,Fisher,"Public School",Walpole,MA,02081
+1631,474,"Old Post Road","Public School","East Walpole",MA,02032
+1632,474,"Walpole High","Public School",Walpole,MA,02081
+1633,475,"Douglas MacArthur Elementary School","Public School",Waltham,MA,02451
+1634,475,"Henry Whittemore Elementary School","Public School",Waltham,MA,02453
+1635,475,"James Fitzgerald Elementary School","Public School",Waltham,MA,02453
+1636,475,"John F Kennedy Middle","Public School",Waltham,MA,02452
+1637,475,"John W. McDevitt Middle School","Public School",Waltham,MA,02453
+1638,475,"Northeast Elementary School","Public School",Waltham,MA,02452
+1639,475,"Thomas R Plympton Elementary School","Public School",Waltham,MA,02451
+1640,475,"Waltham Public Schools Dual Language Program","Public School",Waltham,MA,02453
+1641,475,"Waltham Sr High","Public School",Waltham,MA,02452
+1642,475,"William F. Stanley Elementary School","Public School",Waltham,MA,02453
+1643,476,"Stanley M Koziol Elementary School","Public School",Ware,MA,01082
+1644,476,"Ware Junior/Senior High School","Public School",Ware,MA,01082
+1645,476,"Ware Middle School","Public School",Ware,MA,01082
+1646,477,"Wareham Cooperative Alternative School","Public School",Wareham,MA,02571
+1647,477,"Wareham Elementary School","Public School",Wareham,MA,02571
+1648,477,"Wareham Middle","Public School",Wareham,MA,02571
+1649,477,"Wareham Senior High","Public School",Wareham,MA,02571
+1650,481,Cunniff,"Public School",Watertown,MA,02472
+1651,481,Hosmer,"Public School",Watertown,MA,02472
+1652,481,"James Russell Lowell","Public School",Watertown,MA,02472
+1653,481,"Watertown High","Public School",Watertown,MA,02472
+1654,481,"Watertown Middle","Public School",Watertown,MA,02472
+1655,482,"Claypit Hill School","Public School",Wayland,MA,01778
+1656,482,"Happy Hollow School","Public School",Wayland,MA,01778
+1657,482,"Loker School","Public School",Wayland,MA,01778
+1658,482,"The Children's Way Preschool","Public School",Wayland,MA,01778
+1659,482,"Wayland High School","Public School",Wayland,MA,01778
+1660,482,"Wayland Middle School","Public School",Wayland,MA,01778
+1661,483,"Bartlett High School","Public School",Webster,MA,01570
+1662,483,"Park Avenue Elementary","Public School",Webster,MA,01570
+1663,483,"Webster Middle School","Public School",Webster,MA,01570
+1664,484,"Ernest F Upham","Public School",Wellesley,MA,02481
+1665,484,Hunnewell,"Public School",Wellesley,MA,02482
+1666,484,"John D Hardy","Public School",Wellesley,MA,02482
+1667,484,"Joseph E Fiske","Public School",Wellesley,MA,02481
+1668,484,"Katharine Lee Bates","Public School",Wellesley,MA,02481
+1669,484,"Preschool at Wellesley Schools","Public School",Wellesley,MA,02481
+1670,484,Schofield,"Public School",Wellesley,MA,02481
+1671,484,"Sprague Elementary School","Public School",Wellesley,MA,02482
+1672,484,"Wellesley Middle","Public School",Wellesley,MA,02481
+1673,484,"Wellesley Sr High","Public School",Wellesley,MA,02481
+1674,485,"Wellfleet Elementary","Public School",Wellfleet,MA,02667
+1675,488,"Major Edwards Elementary","Public School","West Boylston",MA,01583
+1676,488,"West Boylston Junior/Senior High","Public School","West Boylston",MA,01583
+1677,489,"Howard School","Public School","West Bridgewater",MA,02379
+1678,489,"Rose L Macdonald","Public School","West Bridgewater",MA,02379
+1679,489,"Spring Street School","Public School","West Bridgewater",MA,02379
+1680,489,"West Bridgewater Junior/Senior","Public School","West Bridgewater",MA,02379
+1681,492,"John Ashley","Public School","West Springfield",MA,01089
+1682,492,"John R Fausey","Public School","West Springfield",MA,01089
+1683,492,Memorial,"Public School","West Springfield",MA,01089
+1684,492,Mittineague,"Public School","West Springfield",MA,01089
+1685,492,"Philip G Coburn","Public School","West Springfield",MA,01089
+1686,492,Tatham,"Public School","West Springfield",MA,01089
+1687,492,"West Springfield Early Childhood","Public School","West Springfield",MA,01089
+1688,492,"West Springfield High","Public School","West Springfield",MA,01089
+1689,492,"West Springfield Middle","Public School","West Springfield",MA,01089
+1690,495,"Annie E Fales","Public School",Westborough,MA,01581
+1691,495,"Elsie A Hastings Elementary","Public School",Westborough,MA,01581
+1692,495,"J Harding Armstrong","Public School",Westborough,MA,01581
+1693,495,"Mill Pond School","Public School",Westborough,MA,01581
+1694,495,"Sarah W Gibbons Middle","Public School",Westborough,MA,01581
+1695,495,"Westborough High","Public School",Westborough,MA,01581
+1696,496,"Abner Gibbs","Public School",Westfield,MA,01085
+1697,496,"Fort Meadow Early Childhood Center","Public School",Westfield,MA,01085
+1698,496,"Franklin Ave","Public School",Westfield,MA,01085
+1699,496,Highland,"Public School",Westfield,MA,01085
+1700,496,"Munger Hill","Public School",Westfield,MA,01085
+1701,496,"Paper Mill","Public School",Westfield,MA,01085
+1702,496,"Southampton Road","Public School",Westfield,MA,01085
+1703,496,"Westfield High","Public School",Westfield,MA,01085
+1704,496,"Westfield Intermediate School","Public School",Westfield,MA,01085
+1705,496,"Westfield Middle School","Public School",Westfield,MA,01085
+1706,496,"Westfield Technical Academy","Public School",Westfield,MA,01085
+1707,496,"Westfield Virtual School","Public School",Westfield,MA,01085
+1708,497,"Abbot Elementary","Public School",Westford,MA,01886
+1709,497,"Blanchard Middle","Public School",Westford,MA,01886
+1710,497,"Col John Robinson","Public School",Westford,MA,01886
+1711,497,"Day Elementary","Public School",Westford,MA,01886
+1712,497,"John A. Crisafulli Elementary School","Public School",Westford,MA,01886
+1713,497,Nabnasset,"Public School",Westford,MA,01886
+1714,497,"Rita E. Miller Elementary School","Public School",Westford,MA,01886
+1715,497,"Stony Brook School","Public School",Westford,MA,01886
+1716,497,"Westford Academy","Public School",Westford,MA,01886
+1717,498,"Westhampton Elementary School","Public School",Westhampton,MA,01027
+1718,500,Country,"Public School",Weston,MA,02493
+1719,500,"Field Elementary School","Public School",Weston,MA,02493
+1720,500,"Weston High","Public School",Weston,MA,02493
+1721,500,"Weston Middle","Public School",Weston,MA,02493
+1722,500,Woodland,"Public School",Weston,MA,02493
+1723,501,"Alice A Macomber","Public School",Westport,MA,02790
+1724,501,"Westport Elementary","Public School",Westport,MA,02790
+1725,501,"Westport Middle-High School","Public School",Westport,MA,02790
+1726,502,"Deerfield School","Public School",Westwood,MA,02090
+1727,502,Downey,"Public School",Westwood,MA,02090
+1728,502,"E W Thurston Middle","Public School",Westwood,MA,02090
+1729,502,"Martha Jones","Public School",Westwood,MA,02090
+1730,502,"Paul Hanlon","Public School",Westwood,MA,02090
+1731,502,"Westwood High","Public School",Westwood,MA,02090
+1732,502,"Westwood Integrated Preschool","Public School",Westwood,MA,02090
+1733,502,"William E Sheehan","Public School",Westwood,MA,02090
+1734,503,"Academy Avenue","Public School",Weymouth,MA,02189
+1735,503,"Frederick C Murphy","Public School",Weymouth,MA,02188
+1736,503,"Johnson Early Childhood Center","Public School",Weymouth,MA,02191
+1737,503,"Lawrence W Pingree","Public School",Weymouth,MA,02189
+1738,503,"Maria Weston Chapman Middle School","Public School",Weymouth,MA,02189
+1739,503,"Ralph Talbot","Public School","South Weymouth",MA,02190
+1740,503,"Thomas V Nash","Public School",Weymouth,MA,02190
+1741,503,"Thomas W. Hamilton Primary School","Public School","South Weymouth",MA,02190
+1742,503,Wessagusset,"Public School","North Weymouth",MA,02191
+1743,503,"Weymouth High School","Public School",Weymouth,MA,02190
+1744,503,"William Seach","Public School",Weymouth,MA,02188
+1745,504,"Whately Elementary","Public School",Whately,MA,01093
+1746,506,"Hanson Middle School","Public School",Hanson,MA,02341
+1747,506,"Indian Head","Public School",Hanson,MA,02341
+1748,506,"John H Duval","Public School",Whitman,MA,02382
+1749,506,"Louise A Conley","Public School",Whitman,MA,02382
+1750,506,"The Pre-School Academy at Whitman Hanson","Public School",Whitman,MA,02382
+1751,506,"Whitman Hanson Regional","Public School",Whitman,MA,02382
+1752,506,"Whitman Middle","Public School",Whitman,MA,02382
+1753,507,"Whittier Regional Vocational","Public School",Haverhill,MA,01830
+1754,509,"Anne T. Dunphy School","Public School",Williamsburg,MA,01096
+1755,511,Boutwell,"Public School",Wilmington,MA,01887
+1756,511,"North Intermediate","Public School",Wilmington,MA,01887
+1757,511,"Shawsheen Elementary","Public School",Wilmington,MA,01887
+1758,511,"West Intermediate","Public School",Wilmington,MA,01887
+1759,511,"Wilmington High","Public School",Wilmington,MA,01887
+1760,511,"Wilmington Middle School","Public School",Wilmington,MA,01887
+1761,511,"Woburn Street","Public School",Wilmington,MA,01887
+1762,512,Memorial,"Public School",Winchendon,MA,01475
+1763,512,"Murdock Academy for Success","Public School",Winchendon,MA,01475
+1764,512,"Murdock High School","Public School",Winchendon,MA,01475
+1765,512,"Murdock Middle School","Public School",Winchendon,MA,01475
+1766,512,"Toy Town Elementary","Public School",Winchendon,MA,01475
+1767,512,"Winchendon PreSchool Program","Public School",Winchendon,MA,01475
+1768,513,"Ambrose Elementary","Public School",Winchester,MA,01890
+1769,513,"Lincoln Elementary","Public School",Winchester,MA,01890
+1770,513,"Lynch Elementary","Public School",Winchester,MA,01890
+1771,513,"McCall Middle","Public School",Winchester,MA,01890
+1772,513,"Muraco Elementary","Public School",Winchester,MA,01890
+1773,513,"Vinson-Owen Elementary","Public School",Winchester,MA,01890
+1774,513,"Winchester High School","Public School",Winchester,MA,01890
+1775,515,"Arthur T. Cummings Elementary School","Public School",Winthrop,MA,02152
+1776,515,"William P. Gorman/Fort Banks Elementary","Public School",Winthrop,MA,02152
+1777,515,"Winthrop High School","Public School",Winthrop,MA,02152
+1778,515,"Winthrop Middle School","Public School",Winthrop,MA,02152
+1779,516,"Clyde Reeves","Public School",Woburn,MA,01801
+1780,516,"Daniel L Joyce Middle School","Public School",Woburn,MA,01801
+1781,516,"Goodyear Elementary School","Public School",Woburn,MA,01801
+1782,516,"Hurld-Wyman Elementary School","Public School",Woburn,MA,01801
+1783,516,"John F Kennedy Middle School","Public School",Woburn,MA,01801
+1784,516,Linscott-Rumford,"Public School",Woburn,MA,01801
+1785,516,"Malcolm White","Public School",Woburn,MA,01801
+1786,516,"Mary D Altavesta","Public School",Woburn,MA,01801
+1787,516,Shamrock,"Public School",Woburn,MA,01801
+1788,516,"Woburn High","Public School",Woburn,MA,01801
+1789,517,"Belmont Street Community","Public School",Worcester,MA,01605
+1790,517,"Burncoat Middle School","Public School",Worcester,MA,01606
+1791,517,"Burncoat Senior High","Public School",Worcester,MA,01606
+1792,517,"Burncoat Street","Public School",Worcester,MA,01606
+1793,517,Canterbury,"Public School",Worcester,MA,01603
+1794,517,"Chandler Elementary Community","Public School",Worcester,MA,01609
+1795,517,"Chandler Magnet","Public School",Worcester,MA,01602
+1796,517,"City View","Public School",Worcester,MA,01605
+1797,517,"Claremont Academy","Public School",Worcester,MA,01610
+1798,517,"Clark St Community","Public School",Worcester,MA,01606
+1799,517,"Columbus Park","Public School",Worcester,MA,01603
+1800,517,"Doherty Memorial High","Public School",Worcester,MA,01602
+1801,517,"Elm Park Community","Public School",Worcester,MA,01609
+1802,517,"Flagg Street","Public School",Worcester,MA,01602
+1803,517,"Forest Grove Middle","Public School",Worcester,MA,01605
+1804,517,"Francis J McGrath Elementary","Public School",Worcester,MA,01605
+1805,517,"Gates Lane","Public School",Worcester,MA,01603
+1806,517,"Goddard School/Science Technical","Public School",Worcester,MA,01603
+1807,517,"Grafton Street","Public School",Worcester,MA,01604
+1808,517,"Head Start","Public School",Worcester,MA,01610
+1809,517,"Heard Street","Public School",Worcester,MA,01603
+1810,517,"Jacob Hiatt Magnet","Public School",Worcester,MA,01610
+1811,517,"La Familia Dual Language School","Public School",Worcester,MA,01604
+1812,517,"Lake View","Public School",Worcester,MA,01604
+1813,517,"Lincoln Street","Public School",Worcester,MA,01605
+1814,517,"May Street","Public School",Worcester,MA,01602
+1815,517,"Midland Street","Public School",Worcester,MA,01602
+1816,517,"Nelson Place","Public School",Worcester,MA,01605
+1817,517,"Norrback Avenue","Public School",Worcester,MA,01606
+1818,517,"North High","Public School",Worcester,MA,01604
+1819,517,Quinsigamond,"Public School",Worcester,MA,01607
+1820,517,"Rice Square","Public School",Worcester,MA,01604
+1821,517,Roosevelt,"Public School",Worcester,MA,01604
+1822,517,"South High Community","Public School",Worcester,MA,01603
+1823,517,"Sullivan Middle","Public School",Worcester,MA,01603
+1824,517,Tatnuck,"Public School",Worcester,MA,01602
+1825,517,"Thorndyke Road","Public School",Worcester,MA,01606
+1826,517,"Union Hill School","Public School",Worcester,MA,01604
+1827,517,"University Pk Campus School","Public School",Worcester,MA,01610
+1828,517,"Vernon Hill School","Public School",Worcester,MA,01607
+1829,517,"Wawecus Road School","Public School",Worcester,MA,01605
+1830,517,"West Tatnuck","Public School",Worcester,MA,01602
+1831,517,"Woodland Academy","Public School",Worcester,MA,01610
+1832,517,"Worcester Arts Magnet School","Public School",Worcester,MA,01606
+1833,517,"Worcester East Middle","Public School",Worcester,MA,01604
+1834,517,"Worcester Technical High","Public School",Worcester,MA,01605
+1835,518,"R. H. Conwell","Public School",Worthington,MA,01098
+1836,519,"Charles E Roderick","Public School",Wrentham,MA,02093
+1837,519,Delaney,"Public School",Wrentham,MA,02093
