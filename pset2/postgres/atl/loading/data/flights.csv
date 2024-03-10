@@ -1,0 +1,2 @@
+id,flight_number,airline_id,departing_airport_code,arriving_airport_code,departure,arrival
+1,300,1,ATL,BOS,"2023-08-03 18:46:00","2023-08-03 21:09:00"
