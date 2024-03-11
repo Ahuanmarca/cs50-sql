@@ -1,14 +1,14 @@
-SELECT
-  city,
-  count(type) as "Public Schools"
+select
+    city,
+    count(type) as "Public Schools"
 from
-  schools
+    schools
 where
-  type = 'Public School'
-GROUP BY
-  city
-ORDER BY
-  "Public Schools" DESC,
-  city
-LIMIT
-  10;
+    type = 'Public School'
+group by
+    city
+order by
+    "Public Schools" desc,
+    city
+limit
+    10;

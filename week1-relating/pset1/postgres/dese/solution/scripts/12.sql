@@ -15,11 +15,11 @@ SELECT
 FROM
   districts
   INNER JOIN expenditures
-  INNER JOIN staff_evaluations
   ON districts.id = expenditures.district_id
-  AND staff_evaluations.district_id = districts.id
+  INNER JOIN staff_evaluations
+  ON staff_evaluations.district_id = districts.id
 WHERE
-  districts.type = "Public School District"
+  districts.type = 'Public School District'
   AND expenditures.per_pupil_expenditure > (
     SELECT
       AVG(per_pupil_expenditure)

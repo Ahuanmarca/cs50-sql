@@ -1,12 +1,14 @@
-SELECT
-  city,
-  COUNT(type) as "Public Schools"
-FROM
-  schools
-WHERE
-  type = 'Public School'
-GROUP BY city
-HAVING COUNT(type) < 4
-ORDER BY
-  "Public Schools" DESC,
-  city;
+select
+    city,
+    count(*) as public_schools
+from
+    schools
+where
+    type = 'Public School'
+group by
+    city
+having
+    count(*) < 4
+order by
+    public_schools DESC,
+    city;

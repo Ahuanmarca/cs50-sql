@@ -11,6 +11,6 @@ WHERE
       expenditures
   )
 ORDER BY
-  "Students" ASC
+  expenditures.pupils ASC
 LIMIT
   10;
