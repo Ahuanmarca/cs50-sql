@@ -1,2 +1,2 @@
 SELECT name NAME from districts
-  WHERE name LIKE "%(non-op)";
+  WHERE name ilike '%(non-op)';

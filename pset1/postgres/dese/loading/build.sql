@@ -1,3 +1,59 @@
+drop table if exists import.master_districts cascade;
+drop table if exists import.master_expenditures cascade;
+drop table if exists import.master_graduation_rates cascade;
+drop table if exists import.master_schools cascade;
+drop table if exists import.master_staff_evaluations cascade;
+drop schema if exists import cascade;
+create schema import;
+
+create table if not exists import.master_districts(
+    id text,
+    name text,
+    type text,
+    city text,
+    state text,
+    zip text
+);
+
+create table if not exists import.master_expenditures(
+    id text,
+    district_id text,
+    pupils text,
+    per_pupil_expenditure text
+);
+
+create table if not exists import.master_graduation_rates(
+    id text,
+    school_id text,
+    graduated text,
+    dropped text,
+    excluded text
+);
+
+create table if not exists import.master_schools(
+    id text,
+    district_id text,
+    name text,
+    type text,
+    city text,
+    state text,
+    zip text
+);
+
+create table if not exists import.master_staff_evaluations(
+    id text,
+    district_id text,
+    evaluated text,
+    exemplary text,
+    proficient text,
+    needs_improvement text,
+    unsatisfactory text
+);
+COPY import.master_districts FROM '/Users/renzobelon/Desktop/repositories/cs50-sql/pset1/postgres/dese/loading/data/districts.csv' WITH DELIMITER ',' HEADER CSV;
+COPY import.master_expenditures FROM '/Users/renzobelon/Desktop/repositories/cs50-sql/pset1/postgres/dese/loading/data/expenditures.csv' WITH DELIMITER ',' HEADER CSV;
+COPY import.master_schools FROM '/Users/renzobelon/Desktop/repositories/cs50-sql/pset1/postgres/dese/loading/data/schools.csv' WITH DELIMITER ',' HEADER CSV;
+COPY import.master_graduation_rates FROM '/Users/renzobelon/Desktop/repositories/cs50-sql/pset1/postgres/dese/loading/data/graduation_rates.csv' WITH DELIMITER ',' HEADER CSV;
+COPY import.master_staff_evaluations FROM '/Users/renzobelon/Desktop/repositories/cs50-sql/pset1/postgres/dese/loading/data/staff_evaluations.csv' WITH DELIMITER ',' HEADER CSV;
 drop table if exists expenditures;
 drop table if exists graduation_rates;
 drop table if exists schools;

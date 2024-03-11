@@ -4,9 +4,9 @@ SELECT
 FROM
   schools
 WHERE
-  type = "Public School"
+  type = 'Public School'
 GROUP BY city
-HAVING "Public Schools" < 4
+HAVING COUNT(type) < 4
 ORDER BY
   "Public Schools" DESC,
   city;

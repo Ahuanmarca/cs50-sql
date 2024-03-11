@@ -4,7 +4,7 @@ SELECT
 from
   schools
 where
-  type = "Public School"
+  type = 'Public School'
 GROUP BY
   city
 ORDER BY
